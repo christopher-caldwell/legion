@@ -1,0 +1,4962 @@
+[
+  {
+    "id": "2",
+    "upgrade_fkey": 1,
+    "pack_fkey": 2,
+    "quantity": 2,
+    "name": "74-Z Speeder Bikes",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07743SGLG/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07743SGLG&linkId=e003e2325f42665f1ed9ee9abb9f17a6"
+  },
+  {
+    "id": "6",
+    "upgrade_fkey": 1,
+    "pack_fkey": 6,
+    "quantity": 1,
+    "name": "T-47 Airspeeder",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B077448B9M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077448B9M&linkId=0edefca7e7144bf2f2a056089fe3467c"
+  },
+  {
+    "id": "1",
+    "upgrade_fkey": 1,
+    "pack_fkey": 1,
+    "quantity": 1,
+    "name": "AT-RT",
+    "release_date": "2020-01-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B0774BR91K/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0774BR91K&linkId=a899c7b54f56052a2d911c1efe988db7"
+  },
+  {
+    "id": "7",
+    "upgrade_fkey": 1,
+    "pack_fkey": 7,
+    "quantity": 1,
+    "name": "AT-ST",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07746KJD4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07746KJD4&linkId=40d524ea729fe3c3fec9bad70980bf2e"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 1,
+    "pack_fkey": 37,
+    "quantity": 2,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "32",
+    "upgrade_fkey": 1,
+    "pack_fkey": 32,
+    "quantity": 1,
+    "name": "Tauntaun Riders",
+    "release_date": "2019-08-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PT1G5NS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07PT1G5NS&linkCode=as2&tag=tabletopadmir-20&linkId=052c6ecbc8edf5d511cc2fc1ac49bf53"
+  },
+  {
+    "id": "2",
+    "upgrade_fkey": 2,
+    "pack_fkey": 2,
+    "quantity": 1,
+    "name": "74-Z Speeder Bikes",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07743SGLG/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07743SGLG&linkId=e003e2325f42665f1ed9ee9abb9f17a6"
+  },
+  {
+    "id": "6",
+    "upgrade_fkey": 2,
+    "pack_fkey": 6,
+    "quantity": 1,
+    "name": "T-47 Airspeeder",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B077448B9M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077448B9M&linkId=0edefca7e7144bf2f2a056089fe3467c"
+  },
+  {
+    "id": "1",
+    "upgrade_fkey": 2,
+    "pack_fkey": 1,
+    "quantity": 1,
+    "name": "AT-RT",
+    "release_date": "2020-01-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B0774BR91K/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0774BR91K&linkId=a899c7b54f56052a2d911c1efe988db7"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 2,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "7",
+    "upgrade_fkey": 2,
+    "pack_fkey": 7,
+    "quantity": 1,
+    "name": "AT-ST",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07746KJD4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07746KJD4&linkId=40d524ea729fe3c3fec9bad70980bf2e"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 2,
+    "pack_fkey": 37,
+    "quantity": 2,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 3,
+    "pack_fkey": 3,
+    "quantity": 1,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "1",
+    "upgrade_fkey": 3,
+    "pack_fkey": 1,
+    "quantity": 1,
+    "name": "AT-RT",
+    "release_date": "2020-01-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B0774BR91K/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0774BR91K&linkId=a899c7b54f56052a2d911c1efe988db7"
+  },
+  {
+    "id": "66",
+    "upgrade_fkey": 3,
+    "pack_fkey": 66,
+    "quantity": 1,
+    "name": "Republic AT-RT",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08GFK32SY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08GFK32SY&linkId=0fa93bbe6814692218d368b9b2a90b52"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 4,
+    "pack_fkey": 3,
+    "quantity": 1,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "1",
+    "upgrade_fkey": 4,
+    "pack_fkey": 1,
+    "quantity": 1,
+    "name": "AT-RT",
+    "release_date": "2020-01-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B0774BR91K/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0774BR91K&linkId=a899c7b54f56052a2d911c1efe988db7"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 5,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 5,
+    "pack_fkey": 37,
+    "quantity": 1,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 5,
+    "pack_fkey": 34,
+    "quantity": 1,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 6,
+    "pack_fkey": 3,
+    "quantity": 4,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 6,
+    "pack_fkey": 37,
+    "quantity": 2,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 8,
+    "pack_fkey": 3,
+    "quantity": 1,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "18",
+    "upgrade_fkey": 8,
+    "pack_fkey": 18,
+    "quantity": 1,
+    "name": "Emperor Palpatine",
+    "release_date": "2018-11-23T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8QL6M6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8QL6M6&linkId=a28b405219bf014cd2d57605d182d7bc"
+  },
+  {
+    "id": "45",
+    "upgrade_fkey": 8,
+    "pack_fkey": 45,
+    "quantity": 1,
+    "name": "Count Dooku",
+    "release_date": "2019-11-15T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLZZ9/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLZZ9&linkId=7d69b659fd549c6948dcf1c327f3c2e3"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 9,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 9,
+    "pack_fkey": 37,
+    "quantity": 1,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 9,
+    "pack_fkey": 34,
+    "quantity": 1,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 11,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "4",
+    "upgrade_fkey": 11,
+    "pack_fkey": 4,
+    "quantity": 1,
+    "name": "Rebel Troopers",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B0773Y2DNB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0773Y2DNB&linkId=3080ea65a83be68aeb2992a773229d51"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 12,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "4",
+    "upgrade_fkey": 12,
+    "pack_fkey": 4,
+    "quantity": 1,
+    "name": "Rebel Troopers",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B0773Y2DNB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0773Y2DNB&linkId=3080ea65a83be68aeb2992a773229d51"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 13,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 13,
+    "pack_fkey": 37,
+    "quantity": 1,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 15,
+    "pack_fkey": 3,
+    "quantity": 4,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 15,
+    "pack_fkey": 37,
+    "quantity": 2,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 16,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "4",
+    "upgrade_fkey": 16,
+    "pack_fkey": 4,
+    "quantity": 1,
+    "name": "Rebel Troopers",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B0773Y2DNB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0773Y2DNB&linkId=3080ea65a83be68aeb2992a773229d51"
+  },
+  {
+    "id": "8",
+    "upgrade_fkey": 17,
+    "pack_fkey": 8,
+    "quantity": 1,
+    "name": "General Veers",
+    "release_date": "2018-04-26T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B078KTK631/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078KTK631&linkId=251bc01d3d8246917f5f1b4cc91d644a"
+  },
+  {
+    "id": "10",
+    "upgrade_fkey": 17,
+    "pack_fkey": 10,
+    "quantity": 1,
+    "name": "Leia Organa",
+    "release_date": "2018-05-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B079K7HJRN/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079K7HJRN&linkId=6968cdfdad187789f64ed58343b1c13c"
+  },
+  {
+    "id": "21",
+    "upgrade_fkey": 17,
+    "pack_fkey": 21,
+    "quantity": 1,
+    "name": "Imperial Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJXD1YS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJXD1YS&linkId=1bb0063f656114ab54993ba6bedf658b"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 17,
+    "pack_fkey": 37,
+    "quantity": 1,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 17,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "4",
+    "upgrade_fkey": 18,
+    "pack_fkey": 4,
+    "quantity": 1,
+    "name": "Rebel Troopers",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B0773Y2DNB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0773Y2DNB&linkId=3080ea65a83be68aeb2992a773229d51"
+  },
+  {
+    "id": "11",
+    "upgrade_fkey": 18,
+    "pack_fkey": 11,
+    "quantity": 1,
+    "name": "Fleet Troopers",
+    "release_date": "2018-05-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B079K7PYJ7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079K7PYJ7&linkId=1b119ba5f6687c901853383dbbb78ced"
+  },
+  {
+    "id": "9",
+    "upgrade_fkey": 18,
+    "pack_fkey": 9,
+    "quantity": 1,
+    "name": "Stormtroopers",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07743P7ZM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07743P7ZM&linkId=2017c61a3fd606a5ebaf96ac101877d2"
+  },
+  {
+    "id": "5",
+    "upgrade_fkey": 18,
+    "pack_fkey": 5,
+    "quantity": 1,
+    "name": "Snowtroopers",
+    "release_date": "2018-05-10T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B078KPM62V/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078KPM62V&linkId=1b231fe288c82b657f8387d672e7ef67"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 18,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 20,
+    "pack_fkey": 3,
+    "quantity": 1,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "1",
+    "upgrade_fkey": 20,
+    "pack_fkey": 1,
+    "quantity": 1,
+    "name": "AT-RT",
+    "release_date": "2020-01-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B0774BR91K/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0774BR91K&linkId=a899c7b54f56052a2d911c1efe988db7"
+  },
+  {
+    "id": "66",
+    "upgrade_fkey": 20,
+    "pack_fkey": 66,
+    "quantity": 1,
+    "name": "Republic AT-RT",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08GFK32SY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08GFK32SY&linkId=0fa93bbe6814692218d368b9b2a90b52"
+  },
+  {
+    "id": "7",
+    "upgrade_fkey": 22,
+    "pack_fkey": 7,
+    "quantity": 1,
+    "name": "AT-ST",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07746KJD4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07746KJD4&linkId=40d524ea729fe3c3fec9bad70980bf2e"
+  },
+  {
+    "id": "7",
+    "upgrade_fkey": 23,
+    "pack_fkey": 7,
+    "quantity": 1,
+    "name": "AT-ST",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07746KJD4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07746KJD4&linkId=40d524ea729fe3c3fec9bad70980bf2e"
+  },
+  {
+    "id": "7",
+    "upgrade_fkey": 24,
+    "pack_fkey": 7,
+    "quantity": 1,
+    "name": "AT-ST",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07746KJD4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07746KJD4&linkId=40d524ea729fe3c3fec9bad70980bf2e"
+  },
+  {
+    "id": "8",
+    "upgrade_fkey": 26,
+    "pack_fkey": 8,
+    "quantity": 1,
+    "name": "General Veers",
+    "release_date": "2018-04-26T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B078KTK631/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078KTK631&linkId=251bc01d3d8246917f5f1b4cc91d644a"
+  },
+  {
+    "id": "10",
+    "upgrade_fkey": 26,
+    "pack_fkey": 10,
+    "quantity": 1,
+    "name": "Leia Organa",
+    "release_date": "2018-05-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B079K7HJRN/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079K7HJRN&linkId=6968cdfdad187789f64ed58343b1c13c"
+  },
+  {
+    "id": "27",
+    "upgrade_fkey": 26,
+    "pack_fkey": 27,
+    "quantity": 1,
+    "name": "Director Orson Krennic",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PM33QJH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PM33QJH&linkId=5b4a1741b2ba6c1caf403a987704d106"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 26,
+    "pack_fkey": 37,
+    "quantity": 1,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "45",
+    "upgrade_fkey": 26,
+    "pack_fkey": 45,
+    "quantity": 1,
+    "name": "Count Dooku",
+    "release_date": "2019-11-15T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLZZ9/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLZZ9&linkId=7d69b659fd549c6948dcf1c327f3c2e3"
+  },
+  {
+    "id": "46",
+    "upgrade_fkey": 26,
+    "pack_fkey": 46,
+    "quantity": 1,
+    "name": "Clone Captain Rex",
+    "release_date": "2019-11-15T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VZ916JB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VZ916JB&linkId=86ade70f30d340fdc7940d81fa8d126a"
+  },
+  {
+    "id": "6",
+    "upgrade_fkey": 27,
+    "pack_fkey": 6,
+    "quantity": 1,
+    "name": "T-47 Airspeeder",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B077448B9M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077448B9M&linkId=0edefca7e7144bf2f2a056089fe3467c"
+  },
+  {
+    "id": "6",
+    "upgrade_fkey": 28,
+    "pack_fkey": 6,
+    "quantity": 1,
+    "name": "T-47 Airspeeder",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B077448B9M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077448B9M&linkId=0edefca7e7144bf2f2a056089fe3467c"
+  },
+  {
+    "id": "6",
+    "upgrade_fkey": 29,
+    "pack_fkey": 6,
+    "quantity": 1,
+    "name": "T-47 Airspeeder",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B077448B9M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077448B9M&linkId=0edefca7e7144bf2f2a056089fe3467c"
+  },
+  {
+    "id": "9",
+    "upgrade_fkey": 30,
+    "pack_fkey": 9,
+    "quantity": 1,
+    "name": "Stormtroopers",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07743P7ZM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07743P7ZM&linkId=2017c61a3fd606a5ebaf96ac101877d2"
+  },
+  {
+    "id": "11",
+    "upgrade_fkey": 30,
+    "pack_fkey": 11,
+    "quantity": 1,
+    "name": "Fleet Troopers",
+    "release_date": "2018-05-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B079K7PYJ7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079K7PYJ7&linkId=1b119ba5f6687c901853383dbbb78ced"
+  },
+  {
+    "id": "4",
+    "upgrade_fkey": 30,
+    "pack_fkey": 4,
+    "quantity": 1,
+    "name": "Rebel Troopers",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B0773Y2DNB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0773Y2DNB&linkId=3080ea65a83be68aeb2992a773229d51"
+  },
+  {
+    "id": "5",
+    "upgrade_fkey": 30,
+    "pack_fkey": 5,
+    "quantity": 1,
+    "name": "Snowtroopers",
+    "release_date": "2018-05-10T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B078KPM62V/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078KPM62V&linkId=1b231fe288c82b657f8387d672e7ef67"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 30,
+    "pack_fkey": 37,
+    "quantity": 2,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "11",
+    "upgrade_fkey": 31,
+    "pack_fkey": 11,
+    "quantity": 1,
+    "name": "Fleet Troopers",
+    "release_date": "2018-05-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B079K7PYJ7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079K7PYJ7&linkId=1b119ba5f6687c901853383dbbb78ced"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 32,
+    "pack_fkey": 3,
+    "quantity": 1,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 32,
+    "pack_fkey": 34,
+    "quantity": 1,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "12",
+    "upgrade_fkey": 33,
+    "pack_fkey": 12,
+    "quantity": 1,
+    "name": "Rebel Commandos",
+    "release_date": "2018-08-23T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07BW54XLS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BW54XLS&linkId=d4021fcab5f6a8286e5b2904761f9dca"
+  },
+  {
+    "id": "13",
+    "upgrade_fkey": 33,
+    "pack_fkey": 13,
+    "quantity": 1,
+    "name": "Han Solo",
+    "release_date": "2018-08-23T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07CB2DYY7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07CB2DYY7&linkId=0cd4ad7f28d816cd9379a69f7600c5ed"
+  },
+  {
+    "id": "14",
+    "upgrade_fkey": 33,
+    "pack_fkey": 14,
+    "quantity": 1,
+    "name": "Boba Fett",
+    "release_date": "2018-09-27T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07D8K3BT2/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D8K3BT2&linkId=10622fbf008519ee35d689e36664207b"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 33,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "15",
+    "upgrade_fkey": 33,
+    "pack_fkey": 15,
+    "quantity": 1,
+    "name": "Scout Troopers",
+    "release_date": "2018-09-27T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07D8F9GT6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D8F9GT6&linkId=29fb753b0dd0c604d96e11c252bcfe01"
+  },
+  {
+    "id": "24",
+    "upgrade_fkey": 33,
+    "pack_fkey": 24,
+    "quantity": 1,
+    "name": "Jyn Erso",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPFHWQJ/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPFHWQJ&linkId=95ba2de3d7044558a5742e8cf490d168"
+  },
+  {
+    "id": "25",
+    "upgrade_fkey": 33,
+    "pack_fkey": 25,
+    "quantity": 1,
+    "name": "Rebel Pathfinders",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPJ3G64/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPJ3G64&linkId=34a05a9e99266aa166d50c903962f489"
+  },
+  {
+    "id": "11",
+    "upgrade_fkey": 35,
+    "pack_fkey": 11,
+    "quantity": 1,
+    "name": "Fleet Troopers",
+    "release_date": "2018-05-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B079K7PYJ7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079K7PYJ7&linkId=1b119ba5f6687c901853383dbbb78ced"
+  },
+  {
+    "id": "5",
+    "upgrade_fkey": 36,
+    "pack_fkey": 5,
+    "quantity": 1,
+    "name": "Snowtroopers",
+    "release_date": "2018-05-10T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B078KPM62V/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078KPM62V&linkId=1b231fe288c82b657f8387d672e7ef67"
+  },
+  {
+    "id": "14",
+    "upgrade_fkey": 38,
+    "pack_fkey": 14,
+    "quantity": 1,
+    "name": "Boba Fett",
+    "release_date": "2018-09-27T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07D8K3BT2/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D8K3BT2&linkId=10622fbf008519ee35d689e36664207b"
+  },
+  {
+    "id": "22",
+    "upgrade_fkey": 38,
+    "pack_fkey": 22,
+    "quantity": 1,
+    "name": "Wookiee Warriors",
+    "release_date": "2018-12-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8Q4P3Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8Q4P3Z&linkId=6332694d7b145bf80ff407f0a1087f73"
+  },
+  {
+    "id": "23",
+    "upgrade_fkey": 38,
+    "pack_fkey": 23,
+    "quantity": 1,
+    "name": "Chewbacca",
+    "release_date": "2018-12-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8QY26M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8QY26M&linkId=eaf10a9025a5012f872eb8d4f08bcf8c"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 38,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "31",
+    "upgrade_fkey": 38,
+    "pack_fkey": 31,
+    "quantity": 1,
+    "name": "Bossk",
+    "release_date": "2019-06-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PJLZQ6K/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PJLZQ6K&linkId=7a167e54053640c156d7e6690126fc76"
+  },
+  {
+    "id": "19",
+    "upgrade_fkey": 38,
+    "pack_fkey": 19,
+    "quantity": 1,
+    "name": "Imperial Royal Guards",
+    "release_date": "2018-11-23T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8NZ7Y4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8NZ7Y4&linkId=be1c9ec6415ff963d53c921acbb90aa3"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 38,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "11",
+    "upgrade_fkey": 39,
+    "pack_fkey": 11,
+    "quantity": 1,
+    "name": "Fleet Troopers",
+    "release_date": "2018-05-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B079K7PYJ7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079K7PYJ7&linkId=1b119ba5f6687c901853383dbbb78ced"
+  },
+  {
+    "id": "16",
+    "upgrade_fkey": 40,
+    "pack_fkey": 16,
+    "quantity": 1,
+    "name": "1.4 FD Laser Cannon Team",
+    "release_date": "2018-10-29T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07DLJSHJ6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DLJSHJ6&linkId=b303a26a96384f7a88113826c5bc2cae"
+  },
+  {
+    "id": "17",
+    "upgrade_fkey": 40,
+    "pack_fkey": 17,
+    "quantity": 1,
+    "name": "E-Web Heavy Blaster Team",
+    "release_date": "2018-10-29T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07DLJQDW3/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DLJQDW3&linkId=06ca31da4e13ce3a7d6394f10fc51917"
+  },
+  {
+    "id": "12",
+    "upgrade_fkey": 41,
+    "pack_fkey": 12,
+    "quantity": 1,
+    "name": "Rebel Commandos",
+    "release_date": "2018-08-23T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07BW54XLS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BW54XLS&linkId=d4021fcab5f6a8286e5b2904761f9dca"
+  },
+  {
+    "id": "17",
+    "upgrade_fkey": 41,
+    "pack_fkey": 17,
+    "quantity": 1,
+    "name": "E-Web Heavy Blaster Team",
+    "release_date": "2018-10-29T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07DLJQDW3/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DLJQDW3&linkId=06ca31da4e13ce3a7d6394f10fc51917"
+  },
+  {
+    "id": "20",
+    "upgrade_fkey": 41,
+    "pack_fkey": 20,
+    "quantity": 1,
+    "name": "Rebel Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJZN3WB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJZN3WB&linkId=43b3290ca0499067f6761ce014347161"
+  },
+  {
+    "id": "28",
+    "upgrade_fkey": 41,
+    "pack_fkey": 28,
+    "quantity": 1,
+    "name": "TX-225 GAVw Occupier",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PKRJGWD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PKRJGWD&linkId=0d7072781e2714773db871d335661f81"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 41,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "15",
+    "upgrade_fkey": 41,
+    "pack_fkey": 15,
+    "quantity": 1,
+    "name": "Scout Troopers",
+    "release_date": "2018-09-27T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07D8F9GT6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D8F9GT6&linkId=29fb753b0dd0c604d96e11c252bcfe01"
+  },
+  {
+    "id": "16",
+    "upgrade_fkey": 41,
+    "pack_fkey": 16,
+    "quantity": 1,
+    "name": "1.4 FD Laser Cannon Team",
+    "release_date": "2018-10-29T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07DLJSHJ6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DLJSHJ6&linkId=b303a26a96384f7a88113826c5bc2cae"
+  },
+  {
+    "id": "16",
+    "upgrade_fkey": 42,
+    "pack_fkey": 16,
+    "quantity": 1,
+    "name": "1.4 FD Laser Cannon Team",
+    "release_date": "2018-10-29T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07DLJSHJ6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DLJSHJ6&linkId=b303a26a96384f7a88113826c5bc2cae"
+  },
+  {
+    "id": "17",
+    "upgrade_fkey": 42,
+    "pack_fkey": 17,
+    "quantity": 1,
+    "name": "E-Web Heavy Blaster Team",
+    "release_date": "2018-10-29T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07DLJQDW3/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DLJQDW3&linkId=06ca31da4e13ce3a7d6394f10fc51917"
+  },
+  {
+    "id": "8",
+    "upgrade_fkey": 37,
+    "pack_fkey": 8,
+    "quantity": 1,
+    "name": "General Veers",
+    "release_date": "2018-04-26T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B078KTK631/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078KTK631&linkId=251bc01d3d8246917f5f1b4cc91d644a"
+  },
+  {
+    "id": "10",
+    "upgrade_fkey": 37,
+    "pack_fkey": 10,
+    "quantity": 1,
+    "name": "Leia Organa",
+    "release_date": "2018-05-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B079K7HJRN/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079K7HJRN&linkId=6968cdfdad187789f64ed58343b1c13c"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 37,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "26",
+    "upgrade_fkey": 37,
+    "pack_fkey": 26,
+    "quantity": 1,
+    "name": "Imperial Death Troopers",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PGBJFZH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PGBJFZH&linkId=c6942d3f2aec6dea24cf54e049e4c4a8"
+  },
+  {
+    "id": "33",
+    "upgrade_fkey": 37,
+    "pack_fkey": 33,
+    "quantity": 1,
+    "name": "Rebel Veterans",
+    "release_date": "2019-08-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PRYX53M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PRYX53M&linkId=291251f161a6aaaf533b73b9b175069b"
+  },
+  {
+    "id": "39",
+    "upgrade_fkey": 96,
+    "pack_fkey": 39,
+    "quantity": 1,
+    "name": "Dewback Rider",
+    "release_date": "2019-11-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SRN7ZYJ/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SRN7ZYJ&linkId=bea02ea8efbac72635c8e63ab065b391"
+  },
+  {
+    "id": "5",
+    "upgrade_fkey": 21,
+    "pack_fkey": 5,
+    "quantity": 1,
+    "name": "Snowtroopers",
+    "release_date": "2018-05-10T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B078KPM62V/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078KPM62V&linkId=1b231fe288c82b657f8387d672e7ef67"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 7,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "9",
+    "upgrade_fkey": 7,
+    "pack_fkey": 9,
+    "quantity": 1,
+    "name": "Stormtroopers",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07743P7ZM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07743P7ZM&linkId=2017c61a3fd606a5ebaf96ac101877d2"
+  },
+  {
+    "id": "9",
+    "upgrade_fkey": 19,
+    "pack_fkey": 9,
+    "quantity": 1,
+    "name": "Stormtroopers",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07743P7ZM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07743P7ZM&linkId=2017c61a3fd606a5ebaf96ac101877d2"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 19,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "7",
+    "upgrade_fkey": 25,
+    "pack_fkey": 7,
+    "quantity": 1,
+    "name": "AT-ST",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07746KJD4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07746KJD4&linkId=40d524ea729fe3c3fec9bad70980bf2e"
+  },
+  {
+    "id": "5",
+    "upgrade_fkey": 34,
+    "pack_fkey": 5,
+    "quantity": 1,
+    "name": "Snowtroopers",
+    "release_date": "2018-05-10T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B078KPM62V/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B078KPM62V&linkId=1b231fe288c82b657f8387d672e7ef67"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 14,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "9",
+    "upgrade_fkey": 14,
+    "pack_fkey": 9,
+    "quantity": 1,
+    "name": "Stormtroopers",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07743P7ZM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07743P7ZM&linkId=2017c61a3fd606a5ebaf96ac101877d2"
+  },
+  {
+    "id": "13",
+    "upgrade_fkey": 44,
+    "pack_fkey": 13,
+    "quantity": 1,
+    "name": "Han Solo",
+    "release_date": "2018-08-23T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07CB2DYY7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07CB2DYY7&linkId=0cd4ad7f28d816cd9379a69f7600c5ed"
+  },
+  {
+    "id": "18",
+    "upgrade_fkey": 44,
+    "pack_fkey": 18,
+    "quantity": 1,
+    "name": "Emperor Palpatine",
+    "release_date": "2018-11-23T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8QL6M6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8QL6M6&linkId=a28b405219bf014cd2d57605d182d7bc"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 44,
+    "pack_fkey": 37,
+    "quantity": 1,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "18",
+    "upgrade_fkey": 45,
+    "pack_fkey": 18,
+    "quantity": 1,
+    "name": "Emperor Palpatine",
+    "release_date": "2018-11-23T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8QL6M6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8QL6M6&linkId=a28b405219bf014cd2d57605d182d7bc"
+  },
+  {
+    "id": "45",
+    "upgrade_fkey": 45,
+    "pack_fkey": 45,
+    "quantity": 1,
+    "name": "Count Dooku",
+    "release_date": "2019-11-15T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLZZ9/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLZZ9&linkId=7d69b659fd549c6948dcf1c327f3c2e3"
+  },
+  {
+    "id": "19",
+    "upgrade_fkey": 46,
+    "pack_fkey": 19,
+    "quantity": 1,
+    "name": "Imperial Royal Guards",
+    "release_date": "2018-11-23T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8NZ7Y4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8NZ7Y4&linkId=be1c9ec6415ff963d53c921acbb90aa3"
+  },
+  {
+    "id": "12",
+    "upgrade_fkey": 47,
+    "pack_fkey": 12,
+    "quantity": 1,
+    "name": "Rebel Commandos",
+    "release_date": "2018-08-23T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07BW54XLS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BW54XLS&linkId=d4021fcab5f6a8286e5b2904761f9dca"
+  },
+  {
+    "id": "12",
+    "upgrade_fkey": 48,
+    "pack_fkey": 12,
+    "quantity": 1,
+    "name": "Rebel Commandos",
+    "release_date": "2018-08-23T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07BW54XLS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BW54XLS&linkId=d4021fcab5f6a8286e5b2904761f9dca"
+  },
+  {
+    "id": "20",
+    "upgrade_fkey": 49,
+    "pack_fkey": 20,
+    "quantity": 1,
+    "name": "Rebel Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJZN3WB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJZN3WB&linkId=43b3290ca0499067f6761ce014347161"
+  },
+  {
+    "id": "22",
+    "upgrade_fkey": 51,
+    "pack_fkey": 22,
+    "quantity": 1,
+    "name": "Wookiee Warriors",
+    "release_date": "2018-12-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8Q4P3Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8Q4P3Z&linkId=6332694d7b145bf80ff407f0a1087f73"
+  },
+  {
+    "id": "15",
+    "upgrade_fkey": 52,
+    "pack_fkey": 15,
+    "quantity": 1,
+    "name": "Scout Troopers",
+    "release_date": "2018-09-27T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07D8F9GT6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D8F9GT6&linkId=29fb753b0dd0c604d96e11c252bcfe01"
+  },
+  {
+    "id": "15",
+    "upgrade_fkey": 53,
+    "pack_fkey": 15,
+    "quantity": 1,
+    "name": "Scout Troopers",
+    "release_date": "2018-09-27T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07D8F9GT6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D8F9GT6&linkId=29fb753b0dd0c604d96e11c252bcfe01"
+  },
+  {
+    "id": "22",
+    "upgrade_fkey": 54,
+    "pack_fkey": 22,
+    "quantity": 1,
+    "name": "Wookiee Warriors",
+    "release_date": "2018-12-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8Q4P3Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8Q4P3Z&linkId=6332694d7b145bf80ff407f0a1087f73"
+  },
+  {
+    "id": "19",
+    "upgrade_fkey": 54,
+    "pack_fkey": 19,
+    "quantity": 1,
+    "name": "Imperial Royal Guards",
+    "release_date": "2018-11-23T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8NZ7Y4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8NZ7Y4&linkId=be1c9ec6415ff963d53c921acbb90aa3"
+  },
+  {
+    "id": "23",
+    "upgrade_fkey": 54,
+    "pack_fkey": 23,
+    "quantity": 1,
+    "name": "Chewbacca",
+    "release_date": "2018-12-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8QY26M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8QY26M&linkId=eaf10a9025a5012f872eb8d4f08bcf8c"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 54,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "32",
+    "upgrade_fkey": 54,
+    "pack_fkey": 32,
+    "quantity": 1,
+    "name": "Tauntaun Riders",
+    "release_date": "2019-08-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PT1G5NS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07PT1G5NS&linkCode=as2&tag=tabletopadmir-20&linkId=052c6ecbc8edf5d511cc2fc1ac49bf53"
+  },
+  {
+    "id": "39",
+    "upgrade_fkey": 54,
+    "pack_fkey": 39,
+    "quantity": 1,
+    "name": "Dewback Rider",
+    "release_date": "2019-11-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SRN7ZYJ/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SRN7ZYJ&linkId=bea02ea8efbac72635c8e63ab065b391"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 54,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "20",
+    "upgrade_fkey": 55,
+    "pack_fkey": 20,
+    "quantity": 1,
+    "name": "Rebel Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJZN3WB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJZN3WB&linkId=43b3290ca0499067f6761ce014347161"
+  },
+  {
+    "id": "19",
+    "upgrade_fkey": 57,
+    "pack_fkey": 19,
+    "quantity": 1,
+    "name": "Imperial Royal Guards",
+    "release_date": "2018-11-23T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8NZ7Y4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8NZ7Y4&linkId=be1c9ec6415ff963d53c921acbb90aa3"
+  },
+  {
+    "id": "22",
+    "upgrade_fkey": 57,
+    "pack_fkey": 22,
+    "quantity": 1,
+    "name": "Wookiee Warriors",
+    "release_date": "2018-12-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8Q4P3Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8Q4P3Z&linkId=6332694d7b145bf80ff407f0a1087f73"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 57,
+    "pack_fkey": 37,
+    "quantity": 2,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "25",
+    "upgrade_fkey": 57,
+    "pack_fkey": 25,
+    "quantity": 1,
+    "name": "Rebel Pathfinders",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPJ3G64/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPJ3G64&linkId=34a05a9e99266aa166d50c903962f489"
+  },
+  {
+    "id": "26",
+    "upgrade_fkey": 57,
+    "pack_fkey": 26,
+    "quantity": 1,
+    "name": "Imperial Death Troopers",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PGBJFZH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PGBJFZH&linkId=c6942d3f2aec6dea24cf54e049e4c4a8"
+  },
+  {
+    "id": "19",
+    "upgrade_fkey": 58,
+    "pack_fkey": 19,
+    "quantity": 1,
+    "name": "Imperial Royal Guards",
+    "release_date": "2018-11-23T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8NZ7Y4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8NZ7Y4&linkId=be1c9ec6415ff963d53c921acbb90aa3"
+  },
+  {
+    "id": "22",
+    "upgrade_fkey": 58,
+    "pack_fkey": 22,
+    "quantity": 1,
+    "name": "Wookiee Warriors",
+    "release_date": "2018-12-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8Q4P3Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8Q4P3Z&linkId=6332694d7b145bf80ff407f0a1087f73"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 58,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "21",
+    "upgrade_fkey": 58,
+    "pack_fkey": 21,
+    "quantity": 1,
+    "name": "Imperial Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJXD1YS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJXD1YS&linkId=1bb0063f656114ab54993ba6bedf658b"
+  },
+  {
+    "id": "24",
+    "upgrade_fkey": 58,
+    "pack_fkey": 24,
+    "quantity": 1,
+    "name": "Jyn Erso",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPFHWQJ/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPFHWQJ&linkId=95ba2de3d7044558a5742e8cf490d168"
+  },
+  {
+    "id": "27",
+    "upgrade_fkey": 58,
+    "pack_fkey": 27,
+    "quantity": 1,
+    "name": "Director Orson Krennic",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PM33QJH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PM33QJH&linkId=5b4a1741b2ba6c1caf403a987704d106"
+  },
+  {
+    "id": "24",
+    "upgrade_fkey": 59,
+    "pack_fkey": 24,
+    "quantity": 1,
+    "name": "Jyn Erso",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPFHWQJ/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPFHWQJ&linkId=95ba2de3d7044558a5742e8cf490d168"
+  },
+  {
+    "id": "25",
+    "upgrade_fkey": 60,
+    "pack_fkey": 25,
+    "quantity": 1,
+    "name": "Rebel Pathfinders",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPJ3G64/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPJ3G64&linkId=34a05a9e99266aa166d50c903962f489"
+  },
+  {
+    "id": "24",
+    "upgrade_fkey": 62,
+    "pack_fkey": 24,
+    "quantity": 1,
+    "name": "Jyn Erso",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPFHWQJ/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPFHWQJ&linkId=95ba2de3d7044558a5742e8cf490d168"
+  },
+  {
+    "id": "27",
+    "upgrade_fkey": 62,
+    "pack_fkey": 27,
+    "quantity": 1,
+    "name": "Director Orson Krennic",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PM33QJH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PM33QJH&linkId=5b4a1741b2ba6c1caf403a987704d106"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 62,
+    "pack_fkey": 37,
+    "quantity": 1,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "20",
+    "upgrade_fkey": 63,
+    "pack_fkey": 20,
+    "quantity": 1,
+    "name": "Rebel Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJZN3WB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJZN3WB&linkId=43b3290ca0499067f6761ce014347161"
+  },
+  {
+    "id": "20",
+    "upgrade_fkey": 64,
+    "pack_fkey": 20,
+    "quantity": 1,
+    "name": "Rebel Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJZN3WB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJZN3WB&linkId=43b3290ca0499067f6761ce014347161"
+  },
+  {
+    "id": "20",
+    "upgrade_fkey": 65,
+    "pack_fkey": 20,
+    "quantity": 1,
+    "name": "Rebel Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJZN3WB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJZN3WB&linkId=43b3290ca0499067f6761ce014347161"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 65,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "21",
+    "upgrade_fkey": 65,
+    "pack_fkey": 21,
+    "quantity": 1,
+    "name": "Imperial Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJXD1YS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJXD1YS&linkId=1bb0063f656114ab54993ba6bedf658b"
+  },
+  {
+    "id": "25",
+    "upgrade_fkey": 65,
+    "pack_fkey": 25,
+    "quantity": 1,
+    "name": "Rebel Pathfinders",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPJ3G64/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPJ3G64&linkId=34a05a9e99266aa166d50c903962f489"
+  },
+  {
+    "id": "26",
+    "upgrade_fkey": 65,
+    "pack_fkey": 26,
+    "quantity": 1,
+    "name": "Imperial Death Troopers",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PGBJFZH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PGBJFZH&linkId=c6942d3f2aec6dea24cf54e049e4c4a8"
+  },
+  {
+    "id": "21",
+    "upgrade_fkey": 66,
+    "pack_fkey": 21,
+    "quantity": 1,
+    "name": "Imperial Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJXD1YS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJXD1YS&linkId=1bb0063f656114ab54993ba6bedf658b"
+  },
+  {
+    "id": "21",
+    "upgrade_fkey": 67,
+    "pack_fkey": 21,
+    "quantity": 1,
+    "name": "Imperial Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJXD1YS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJXD1YS&linkId=1bb0063f656114ab54993ba6bedf658b"
+  },
+  {
+    "id": "21",
+    "upgrade_fkey": 68,
+    "pack_fkey": 21,
+    "quantity": 1,
+    "name": "Imperial Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJXD1YS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJXD1YS&linkId=1bb0063f656114ab54993ba6bedf658b"
+  },
+  {
+    "id": "24",
+    "upgrade_fkey": 69,
+    "pack_fkey": 24,
+    "quantity": 1,
+    "name": "Jyn Erso",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPFHWQJ/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPFHWQJ&linkId=95ba2de3d7044558a5742e8cf490d168"
+  },
+  {
+    "id": "31",
+    "upgrade_fkey": 70,
+    "pack_fkey": 31,
+    "quantity": 1,
+    "name": "Bossk",
+    "release_date": "2019-06-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PJLZQ6K/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PJLZQ6K&linkId=7a167e54053640c156d7e6690126fc76"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 70,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "30",
+    "upgrade_fkey": 70,
+    "pack_fkey": 30,
+    "quantity": 1,
+    "name": "Sabine Wren",
+    "release_date": "2019-06-28T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PJLZ69M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PJLZ69M&linkId=763fffc2413fee05b4fb4016a9480d33"
+  },
+  {
+    "id": "32",
+    "upgrade_fkey": 70,
+    "pack_fkey": 32,
+    "quantity": 1,
+    "name": "Tauntaun Riders",
+    "release_date": "2019-08-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PT1G5NS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07PT1G5NS&linkCode=as2&tag=tabletopadmir-20&linkId=052c6ecbc8edf5d511cc2fc1ac49bf53"
+  },
+  {
+    "id": "33",
+    "upgrade_fkey": 70,
+    "pack_fkey": 33,
+    "quantity": 1,
+    "name": "Rebel Veterans",
+    "release_date": "2019-08-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PRYX53M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PRYX53M&linkId=291251f161a6aaaf533b73b9b175069b"
+  },
+  {
+    "id": "38",
+    "upgrade_fkey": 70,
+    "pack_fkey": 38,
+    "quantity": 1,
+    "name": "Imperial Shoretroopers",
+    "release_date": "2019-08-30T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SBHPYQP/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SBHPYQP&linkId=998457a6db83d38df2705b1ca444b49b"
+  },
+  {
+    "id": "39",
+    "upgrade_fkey": 70,
+    "pack_fkey": 39,
+    "quantity": 1,
+    "name": "Dewback Rider",
+    "release_date": "2019-11-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SRN7ZYJ/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SRN7ZYJ&linkId=bea02ea8efbac72635c8e63ab065b391"
+  },
+  {
+    "id": "30",
+    "upgrade_fkey": 71,
+    "pack_fkey": 30,
+    "quantity": 1,
+    "name": "Sabine Wren",
+    "release_date": "2019-06-28T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PJLZ69M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PJLZ69M&linkId=763fffc2413fee05b4fb4016a9480d33"
+  },
+  {
+    "id": "25",
+    "upgrade_fkey": 72,
+    "pack_fkey": 25,
+    "quantity": 1,
+    "name": "Rebel Pathfinders",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPJ3G64/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPJ3G64&linkId=34a05a9e99266aa166d50c903962f489"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 72,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "26",
+    "upgrade_fkey": 72,
+    "pack_fkey": 26,
+    "quantity": 1,
+    "name": "Imperial Death Troopers",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PGBJFZH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PGBJFZH&linkId=c6942d3f2aec6dea24cf54e049e4c4a8"
+  },
+  {
+    "id": "33",
+    "upgrade_fkey": 72,
+    "pack_fkey": 33,
+    "quantity": 1,
+    "name": "Rebel Veterans",
+    "release_date": "2019-08-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PRYX53M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PRYX53M&linkId=291251f161a6aaaf533b73b9b175069b"
+  },
+  {
+    "id": "38",
+    "upgrade_fkey": 72,
+    "pack_fkey": 38,
+    "quantity": 1,
+    "name": "Imperial Shoretroopers",
+    "release_date": "2019-08-30T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SBHPYQP/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SBHPYQP&linkId=998457a6db83d38df2705b1ca444b49b"
+  },
+  {
+    "id": "25",
+    "upgrade_fkey": 73,
+    "pack_fkey": 25,
+    "quantity": 1,
+    "name": "Rebel Pathfinders",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPJ3G64/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPJ3G64&linkId=34a05a9e99266aa166d50c903962f489"
+  },
+  {
+    "id": "25",
+    "upgrade_fkey": 74,
+    "pack_fkey": 25,
+    "quantity": 1,
+    "name": "Rebel Pathfinders",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPJ3G64/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPJ3G64&linkId=34a05a9e99266aa166d50c903962f489"
+  },
+  {
+    "id": "25",
+    "upgrade_fkey": 75,
+    "pack_fkey": 25,
+    "quantity": 1,
+    "name": "Rebel Pathfinders",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPJ3G64/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPJ3G64&linkId=34a05a9e99266aa166d50c903962f489"
+  },
+  {
+    "id": "33",
+    "upgrade_fkey": 76,
+    "pack_fkey": 33,
+    "quantity": 1,
+    "name": "Rebel Veterans",
+    "release_date": "2019-08-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PRYX53M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PRYX53M&linkId=291251f161a6aaaf533b73b9b175069b"
+  },
+  {
+    "id": "26",
+    "upgrade_fkey": 77,
+    "pack_fkey": 26,
+    "quantity": 1,
+    "name": "Imperial Death Troopers",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PGBJFZH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PGBJFZH&linkId=c6942d3f2aec6dea24cf54e049e4c4a8"
+  },
+  {
+    "id": "30",
+    "upgrade_fkey": 79,
+    "pack_fkey": 30,
+    "quantity": 1,
+    "name": "Sabine Wren",
+    "release_date": "2019-06-28T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PJLZ69M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PJLZ69M&linkId=763fffc2413fee05b4fb4016a9480d33"
+  },
+  {
+    "id": "29",
+    "upgrade_fkey": 80,
+    "pack_fkey": 29,
+    "quantity": 1,
+    "name": "X-34 Landspeeder",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PLVJV5J/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PLVJV5J&linkId=a88a60fb7c827853ab8fb0a681e66200"
+  },
+  {
+    "id": "29",
+    "upgrade_fkey": 81,
+    "pack_fkey": 29,
+    "quantity": 1,
+    "name": "X-34 Landspeeder",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PLVJV5J/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PLVJV5J&linkId=a88a60fb7c827853ab8fb0a681e66200"
+  },
+  {
+    "id": "29",
+    "upgrade_fkey": 82,
+    "pack_fkey": 29,
+    "quantity": 2,
+    "name": "X-34 Landspeeder",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PLVJV5J/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PLVJV5J&linkId=a88a60fb7c827853ab8fb0a681e66200"
+  },
+  {
+    "id": "28",
+    "upgrade_fkey": 83,
+    "pack_fkey": 28,
+    "quantity": 2,
+    "name": "TX-225 GAVw Occupier",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PKRJGWD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PKRJGWD&linkId=0d7072781e2714773db871d335661f81"
+  },
+  {
+    "id": "26",
+    "upgrade_fkey": 84,
+    "pack_fkey": 26,
+    "quantity": 1,
+    "name": "Imperial Death Troopers",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PGBJFZH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PGBJFZH&linkId=c6942d3f2aec6dea24cf54e049e4c4a8"
+  },
+  {
+    "id": "26",
+    "upgrade_fkey": 85,
+    "pack_fkey": 26,
+    "quantity": 1,
+    "name": "Imperial Death Troopers",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PGBJFZH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PGBJFZH&linkId=c6942d3f2aec6dea24cf54e049e4c4a8"
+  },
+  {
+    "id": "26",
+    "upgrade_fkey": 86,
+    "pack_fkey": 26,
+    "quantity": 1,
+    "name": "Imperial Death Troopers",
+    "release_date": "2019-03-28T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PGBJFZH/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PGBJFZH&linkId=c6942d3f2aec6dea24cf54e049e4c4a8"
+  },
+  {
+    "id": "28",
+    "upgrade_fkey": 87,
+    "pack_fkey": 28,
+    "quantity": 1,
+    "name": "TX-225 GAVw Occupier",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PKRJGWD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PKRJGWD&linkId=0d7072781e2714773db871d335661f81"
+  },
+  {
+    "id": "28",
+    "upgrade_fkey": 88,
+    "pack_fkey": 28,
+    "quantity": 1,
+    "name": "TX-225 GAVw Occupier",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PKRJGWD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PKRJGWD&linkId=0d7072781e2714773db871d335661f81"
+  },
+  {
+    "id": "28",
+    "upgrade_fkey": 89,
+    "pack_fkey": 28,
+    "quantity": 1,
+    "name": "TX-225 GAVw Occupier",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PKRJGWD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PKRJGWD&linkId=0d7072781e2714773db871d335661f81"
+  },
+  {
+    "id": "29",
+    "upgrade_fkey": 90,
+    "pack_fkey": 29,
+    "quantity": 1,
+    "name": "X-34 Landspeeder",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PLVJV5J/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PLVJV5J&linkId=a88a60fb7c827853ab8fb0a681e66200"
+  },
+  {
+    "id": "29",
+    "upgrade_fkey": 91,
+    "pack_fkey": 29,
+    "quantity": 1,
+    "name": "X-34 Landspeeder",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PLVJV5J/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PLVJV5J&linkId=a88a60fb7c827853ab8fb0a681e66200"
+  },
+  {
+    "id": "29",
+    "upgrade_fkey": 92,
+    "pack_fkey": 29,
+    "quantity": 1,
+    "name": "X-34 Landspeeder",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PLVJV5J/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PLVJV5J&linkId=a88a60fb7c827853ab8fb0a681e66200"
+  },
+  {
+    "id": "35",
+    "upgrade_fkey": 93,
+    "pack_fkey": 35,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SSMV4ZW/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SSMV4ZW&linkId=0dc37979abfe0c92bbe43578c42754f8"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 93,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 94,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "36",
+    "upgrade_fkey": 94,
+    "pack_fkey": 36,
+    "quantity": 1,
+    "name": "B1 Battle Droids",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07STPQV4R/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07STPQV4R&linkId=5d5f8c21279a8b3c1b2335c37c55cd9c"
+  },
+  {
+    "id": "38",
+    "upgrade_fkey": 95,
+    "pack_fkey": 38,
+    "quantity": 1,
+    "name": "Imperial Shoretroopers",
+    "release_date": "2019-08-30T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SBHPYQP/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SBHPYQP&linkId=998457a6db83d38df2705b1ca444b49b"
+  },
+  {
+    "id": "30",
+    "upgrade_fkey": 97,
+    "pack_fkey": 30,
+    "quantity": 1,
+    "name": "Sabine Wren",
+    "release_date": "2019-06-28T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PJLZ69M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PJLZ69M&linkId=763fffc2413fee05b4fb4016a9480d33"
+  },
+  {
+    "id": "33",
+    "upgrade_fkey": 98,
+    "pack_fkey": 33,
+    "quantity": 1,
+    "name": "Rebel Veterans",
+    "release_date": "2019-08-01T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PRYX53M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PRYX53M&linkId=291251f161a6aaaf533b73b9b175069b"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 99,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "41",
+    "upgrade_fkey": 99,
+    "pack_fkey": 41,
+    "quantity": 1,
+    "name": "Droidekas",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VWZ37XC/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VWZ37XC&linkId=4c5815b88095739f43f33e40e10dcb3e"
+  },
+  {
+    "id": "50",
+    "upgrade_fkey": 99,
+    "pack_fkey": 50,
+    "quantity": 1,
+    "name": "AAT Trade Federation Battle Tank",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSMYFK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSMYFK&linkId=d7c6edad7a4caee27c7ec6d2f189813d"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 100,
+    "pack_fkey": 34,
+    "quantity": 1,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "42",
+    "upgrade_fkey": 100,
+    "pack_fkey": 42,
+    "quantity": 1,
+    "name": "BARC Speeder",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VXYZ7QG/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VXYZ7QG&linkId=a80fd746759d53550273fbe13cb0ad90"
+  },
+  {
+    "id": "36",
+    "upgrade_fkey": 101,
+    "pack_fkey": 36,
+    "quantity": 1,
+    "name": "B1 Battle Droids",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07STPQV4R/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07STPQV4R&linkId=5d5f8c21279a8b3c1b2335c37c55cd9c"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 101,
+    "pack_fkey": 37,
+    "quantity": 2,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "35",
+    "upgrade_fkey": 101,
+    "pack_fkey": 35,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SSMV4ZW/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SSMV4ZW&linkId=0dc37979abfe0c92bbe43578c42754f8"
+  },
+  {
+    "id": "51",
+    "upgrade_fkey": 101,
+    "pack_fkey": 51,
+    "quantity": 1,
+    "name": "Imperial Stormtroopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLQXN/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLQXN&linkId=8d32c4d211d69fe88846a36dd59e7a08"
+  },
+  {
+    "id": "35",
+    "upgrade_fkey": 103,
+    "pack_fkey": 35,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SSMV4ZW/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SSMV4ZW&linkId=0dc37979abfe0c92bbe43578c42754f8"
+  },
+  {
+    "id": "53",
+    "upgrade_fkey": 103,
+    "pack_fkey": 53,
+    "quantity": 1,
+    "name": "Rebel Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSS5LYD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSS5LYD&linkId=0b08997060e6cbac0e9d4ecf24d5411c"
+  },
+  {
+    "id": "55",
+    "upgrade_fkey": 103,
+    "pack_fkey": 55,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WRN5945/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WRN5945&linkId=db324d55da69649b5f59b8bf7b4b717c"
+  },
+  {
+    "id": "61",
+    "upgrade_fkey": 103,
+    "pack_fkey": 61,
+    "quantity": 1,
+    "name": "Cad Bane Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0877WW1NC/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0877WW1NC&linkId=cb7b71de18c3c27fe404c00fa1f5bcf7"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 104,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 104,
+    "pack_fkey": 37,
+    "quantity": 1,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 105,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "36",
+    "upgrade_fkey": 105,
+    "pack_fkey": 36,
+    "quantity": 1,
+    "name": "B1 Battle Droids",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07STPQV4R/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07STPQV4R&linkId=5d5f8c21279a8b3c1b2335c37c55cd9c"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 106,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "36",
+    "upgrade_fkey": 106,
+    "pack_fkey": 36,
+    "quantity": 1,
+    "name": "B1 Battle Droids",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07STPQV4R/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07STPQV4R&linkId=5d5f8c21279a8b3c1b2335c37c55cd9c"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 107,
+    "pack_fkey": 34,
+    "quantity": 1,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "43",
+    "upgrade_fkey": 107,
+    "pack_fkey": 43,
+    "quantity": 1,
+    "name": "Luke Skywalker Operative",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VYNP7XV/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VYNP7XV&linkId=6c9f189a731bb04293556a358e7a7932"
+  },
+  {
+    "id": "35",
+    "upgrade_fkey": 108,
+    "pack_fkey": 35,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SSMV4ZW/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SSMV4ZW&linkId=0dc37979abfe0c92bbe43578c42754f8"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 108,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "35",
+    "upgrade_fkey": 109,
+    "pack_fkey": 35,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SSMV4ZW/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SSMV4ZW&linkId=0dc37979abfe0c92bbe43578c42754f8"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 109,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 110,
+    "pack_fkey": 34,
+    "quantity": 1,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "45",
+    "upgrade_fkey": 111,
+    "pack_fkey": 45,
+    "quantity": 1,
+    "name": "Count Dooku",
+    "release_date": "2019-11-15T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLZZ9/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLZZ9&linkId=7d69b659fd549c6948dcf1c327f3c2e3"
+  },
+  {
+    "id": "44",
+    "upgrade_fkey": 111,
+    "pack_fkey": 44,
+    "quantity": 1,
+    "name": "Darth Vader Operative",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VYNPBV7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07VYNPBV7&linkCode=as2&tag=tabletopadmir-20&linkId=9e53e4ca267f277330d9087229106db9"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 112,
+    "pack_fkey": 34,
+    "quantity": 1,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "42",
+    "upgrade_fkey": 112,
+    "pack_fkey": 42,
+    "quantity": 1,
+    "name": "BARC Speeder",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VXYZ7QG/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VXYZ7QG&linkId=a80fd746759d53550273fbe13cb0ad90"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 113,
+    "pack_fkey": 34,
+    "quantity": 1,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "42",
+    "upgrade_fkey": 113,
+    "pack_fkey": 42,
+    "quantity": 1,
+    "name": "BARC Speeder",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VXYZ7QG/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VXYZ7QG&linkId=a80fd746759d53550273fbe13cb0ad90"
+  },
+  {
+    "id": "47",
+    "upgrade_fkey": 117,
+    "pack_fkey": 47,
+    "quantity": 1,
+    "name": "Phase II Clone Troopers",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WVR5Q27/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WVR5Q27&linkId=8b30b5774101f0f4da3c6a19a3e28d44"
+  },
+  {
+    "id": "48",
+    "upgrade_fkey": 118,
+    "pack_fkey": 48,
+    "quantity": 1,
+    "name": "B2 Super Battle Droids",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07W1B68B6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07W1B68B6&linkId=27285f7f6b45dff080b2429f9f647282"
+  },
+  {
+    "id": "49",
+    "upgrade_fkey": 119,
+    "pack_fkey": 49,
+    "quantity": 1,
+    "name": "TX-130 Saber-Class Fighter Tank",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSSH525/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSSH525&linkId=fe539bcc1fa6b3b362990b05753c2f24"
+  },
+  {
+    "id": "50",
+    "upgrade_fkey": 120,
+    "pack_fkey": 50,
+    "quantity": 1,
+    "name": "AAT Trade Federation Battle Tank",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSMYFK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSMYFK&linkId=d7c6edad7a4caee27c7ec6d2f189813d"
+  },
+  {
+    "id": "51",
+    "upgrade_fkey": 121,
+    "pack_fkey": 51,
+    "quantity": 1,
+    "name": "Imperial Stormtroopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLQXN/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLQXN&linkId=8d32c4d211d69fe88846a36dd59e7a08"
+  },
+  {
+    "id": "53",
+    "upgrade_fkey": 123,
+    "pack_fkey": 53,
+    "quantity": 1,
+    "name": "Rebel Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSS5LYD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSS5LYD&linkId=0b08997060e6cbac0e9d4ecf24d5411c"
+  },
+  {
+    "id": "53",
+    "upgrade_fkey": 124,
+    "pack_fkey": 53,
+    "quantity": 1,
+    "name": "Rebel Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSS5LYD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSS5LYD&linkId=0b08997060e6cbac0e9d4ecf24d5411c"
+  },
+  {
+    "id": "54",
+    "upgrade_fkey": 125,
+    "pack_fkey": 54,
+    "quantity": 1,
+    "name": "B1 Battle Droids Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WTRK8ZF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WTRK8ZF&linkId=c7dc9b06183c6280624a2409baa4dac9"
+  },
+  {
+    "id": "54",
+    "upgrade_fkey": 126,
+    "pack_fkey": 54,
+    "quantity": 1,
+    "name": "B1 Battle Droids Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WTRK8ZF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WTRK8ZF&linkId=c7dc9b06183c6280624a2409baa4dac9"
+  },
+  {
+    "id": "55",
+    "upgrade_fkey": 127,
+    "pack_fkey": 55,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WRN5945/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WRN5945&linkId=db324d55da69649b5f59b8bf7b4b717c"
+  },
+  {
+    "id": "55",
+    "upgrade_fkey": 128,
+    "pack_fkey": 55,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WRN5945/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WRN5945&linkId=db324d55da69649b5f59b8bf7b4b717c"
+  },
+  {
+    "id": "51",
+    "upgrade_fkey": 129,
+    "pack_fkey": 51,
+    "quantity": 1,
+    "name": "Imperial Stormtroopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLQXN/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLQXN&linkId=8d32c4d211d69fe88846a36dd59e7a08"
+  },
+  {
+    "id": "53",
+    "upgrade_fkey": 129,
+    "pack_fkey": 53,
+    "quantity": 1,
+    "name": "Rebel Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSS5LYD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSS5LYD&linkId=0b08997060e6cbac0e9d4ecf24d5411c"
+  },
+  {
+    "id": "55",
+    "upgrade_fkey": 129,
+    "pack_fkey": 55,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WRN5945/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WRN5945&linkId=db324d55da69649b5f59b8bf7b4b717c"
+  },
+  {
+    "id": "61",
+    "upgrade_fkey": 129,
+    "pack_fkey": 61,
+    "quantity": 1,
+    "name": "Cad Bane Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0877WW1NC/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0877WW1NC&linkId=cb7b71de18c3c27fe404c00fa1f5bcf7"
+  },
+  {
+    "id": "56",
+    "upgrade_fkey": 130,
+    "pack_fkey": 56,
+    "quantity": 1,
+    "name": "Crashed Escape Pod",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://www.amazon.com/gp/product/B07YFFPHW7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07YFFPHW7&linkId=2f973798265c0dcd1b21605ee5bb7b5c"
+  },
+  {
+    "id": "54",
+    "upgrade_fkey": 130,
+    "pack_fkey": 54,
+    "quantity": 1,
+    "name": "B1 Battle Droids Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WTRK8ZF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WTRK8ZF&linkId=c7dc9b06183c6280624a2409baa4dac9"
+  },
+  {
+    "id": "56",
+    "upgrade_fkey": 131,
+    "pack_fkey": 56,
+    "quantity": 1,
+    "name": "Crashed Escape Pod",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://www.amazon.com/gp/product/B07YFFPHW7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07YFFPHW7&linkId=2f973798265c0dcd1b21605ee5bb7b5c"
+  },
+  {
+    "id": "53",
+    "upgrade_fkey": 132,
+    "pack_fkey": 53,
+    "quantity": 1,
+    "name": "Rebel Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSS5LYD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSS5LYD&linkId=0b08997060e6cbac0e9d4ecf24d5411c"
+  },
+  {
+    "id": "53",
+    "upgrade_fkey": 133,
+    "pack_fkey": 53,
+    "quantity": 1,
+    "name": "Rebel Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSS5LYD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSS5LYD&linkId=0b08997060e6cbac0e9d4ecf24d5411c"
+  },
+  {
+    "id": "54",
+    "upgrade_fkey": 136,
+    "pack_fkey": 54,
+    "quantity": 1,
+    "name": "B1 Battle Droids Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WTRK8ZF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WTRK8ZF&linkId=c7dc9b06183c6280624a2409baa4dac9"
+  },
+  {
+    "id": "54",
+    "upgrade_fkey": 137,
+    "pack_fkey": 54,
+    "quantity": 1,
+    "name": "B1 Battle Droids Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WTRK8ZF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WTRK8ZF&linkId=c7dc9b06183c6280624a2409baa4dac9"
+  },
+  {
+    "id": "55",
+    "upgrade_fkey": 138,
+    "pack_fkey": 55,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WRN5945/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WRN5945&linkId=db324d55da69649b5f59b8bf7b4b717c"
+  },
+  {
+    "id": "55",
+    "upgrade_fkey": 139,
+    "pack_fkey": 55,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WRN5945/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WRN5945&linkId=db324d55da69649b5f59b8bf7b4b717c"
+  },
+  {
+    "id": "47",
+    "upgrade_fkey": 140,
+    "pack_fkey": 47,
+    "quantity": 1,
+    "name": "Phase II Clone Troopers",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WVR5Q27/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WVR5Q27&linkId=8b30b5774101f0f4da3c6a19a3e28d44"
+  },
+  {
+    "id": "39",
+    "upgrade_fkey": 115,
+    "pack_fkey": 39,
+    "quantity": 1,
+    "name": "Dewback Rider",
+    "release_date": "2019-11-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SRN7ZYJ/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SRN7ZYJ&linkId=bea02ea8efbac72635c8e63ab065b391"
+  },
+  {
+    "id": "39",
+    "upgrade_fkey": 116,
+    "pack_fkey": 39,
+    "quantity": 1,
+    "name": "Dewback Rider",
+    "release_date": "2019-11-22T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SRN7ZYJ/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SRN7ZYJ&linkId=bea02ea8efbac72635c8e63ab065b391"
+  },
+  {
+    "id": "51",
+    "upgrade_fkey": 122,
+    "pack_fkey": 51,
+    "quantity": 1,
+    "name": "Imperial Stormtroopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLQXN/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLQXN&linkId=8d32c4d211d69fe88846a36dd59e7a08"
+  },
+  {
+    "id": "38",
+    "upgrade_fkey": 114,
+    "pack_fkey": 38,
+    "quantity": 1,
+    "name": "Imperial Shoretroopers",
+    "release_date": "2019-08-30T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SBHPYQP/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SBHPYQP&linkId=998457a6db83d38df2705b1ca444b49b"
+  },
+  {
+    "id": "51",
+    "upgrade_fkey": 134,
+    "pack_fkey": 51,
+    "quantity": 1,
+    "name": "Imperial Stormtroopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLQXN/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLQXN&linkId=8d32c4d211d69fe88846a36dd59e7a08"
+  },
+  {
+    "id": "51",
+    "upgrade_fkey": 135,
+    "pack_fkey": 51,
+    "quantity": 1,
+    "name": "Imperial Stormtroopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLQXN/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLQXN&linkId=8d32c4d211d69fe88846a36dd59e7a08"
+  },
+  {
+    "id": "48",
+    "upgrade_fkey": 141,
+    "pack_fkey": 48,
+    "quantity": 1,
+    "name": "B2 Super Battle Droids",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07W1B68B6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07W1B68B6&linkId=27285f7f6b45dff080b2429f9f647282"
+  },
+  {
+    "id": "58",
+    "upgrade_fkey": 142,
+    "pack_fkey": 58,
+    "quantity": 1,
+    "name": "Cassian Andor and K-2SO",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RLFS6H/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RLFS6H&linkId=17fb83123c9700b8d2e00ed2e2f94832"
+  },
+  {
+    "id": "57",
+    "upgrade_fkey": 143,
+    "pack_fkey": 57,
+    "quantity": 1,
+    "name": "Iden Versio and ID10",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RL8NY1/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RL8NY1&linkId=daf07c14c99b1310781d79844763d0f9"
+  },
+  {
+    "id": "47",
+    "upgrade_fkey": 144,
+    "pack_fkey": 47,
+    "quantity": 1,
+    "name": "Phase II Clone Troopers",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WVR5Q27/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WVR5Q27&linkId=8b30b5774101f0f4da3c6a19a3e28d44"
+  },
+  {
+    "id": "49",
+    "upgrade_fkey": 145,
+    "pack_fkey": 49,
+    "quantity": 1,
+    "name": "TX-130 Saber-Class Fighter Tank",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSSH525/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSSH525&linkId=fe539bcc1fa6b3b362990b05753c2f24"
+  },
+  {
+    "id": "49",
+    "upgrade_fkey": 146,
+    "pack_fkey": 49,
+    "quantity": 1,
+    "name": "TX-130 Saber-Class Fighter Tank",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSSH525/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSSH525&linkId=fe539bcc1fa6b3b362990b05753c2f24"
+  },
+  {
+    "id": "50",
+    "upgrade_fkey": 147,
+    "pack_fkey": 50,
+    "quantity": 1,
+    "name": "AAT Trade Federation Battle Tank",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSMYFK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSMYFK&linkId=d7c6edad7a4caee27c7ec6d2f189813d"
+  },
+  {
+    "id": "50",
+    "upgrade_fkey": 149,
+    "pack_fkey": 50,
+    "quantity": 1,
+    "name": "AAT Trade Federation Battle Tank",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSMYFK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSMYFK&linkId=d7c6edad7a4caee27c7ec6d2f189813d"
+  },
+  {
+    "id": "49",
+    "upgrade_fkey": 150,
+    "pack_fkey": 49,
+    "quantity": 1,
+    "name": "TX-130 Saber-Class Fighter Tank",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSSH525/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSSH525&linkId=fe539bcc1fa6b3b362990b05753c2f24"
+  },
+  {
+    "id": "49",
+    "upgrade_fkey": 151,
+    "pack_fkey": 49,
+    "quantity": 1,
+    "name": "TX-130 Saber-Class Fighter Tank",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSSH525/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSSH525&linkId=fe539bcc1fa6b3b362990b05753c2f24"
+  },
+  {
+    "id": "50",
+    "upgrade_fkey": 152,
+    "pack_fkey": 50,
+    "quantity": 1,
+    "name": "AAT Trade Federation Battle Tank",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSMYFK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSMYFK&linkId=d7c6edad7a4caee27c7ec6d2f189813d"
+  },
+  {
+    "id": "50",
+    "upgrade_fkey": 153,
+    "pack_fkey": 50,
+    "quantity": 1,
+    "name": "AAT Trade Federation Battle Tank",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSMYFK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSMYFK&linkId=d7c6edad7a4caee27c7ec6d2f189813d"
+  },
+  {
+    "id": "50",
+    "upgrade_fkey": 154,
+    "pack_fkey": 50,
+    "quantity": 1,
+    "name": "AAT Trade Federation Battle Tank",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSMYFK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSMYFK&linkId=d7c6edad7a4caee27c7ec6d2f189813d"
+  },
+  {
+    "id": "61",
+    "upgrade_fkey": 155,
+    "pack_fkey": 61,
+    "quantity": 1,
+    "name": "Cad Bane Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0877WW1NC/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0877WW1NC&linkId=cb7b71de18c3c27fe404c00fa1f5bcf7"
+  },
+  {
+    "id": "60",
+    "upgrade_fkey": 156,
+    "pack_fkey": 60,
+    "quantity": 1,
+    "name": "Padme Amidala Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08784TZMR/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08784TZMR&linkId=57c71abd63ca686363a2d06cd04d305f"
+  },
+  {
+    "id": "62",
+    "upgrade_fkey": 158,
+    "pack_fkey": 62,
+    "quantity": 1,
+    "name": "Arc Troopers",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08788NMYK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08788NMYK&linkId=929cd6ad65e6de3472f677d94e55c1c4"
+  },
+  {
+    "id": "59",
+    "upgrade_fkey": 159,
+    "pack_fkey": 59,
+    "quantity": 1,
+    "name": "BX-Series Droid Commandos",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087814K8Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087814K8Z&linkId=1edf34068af8e1c1ce217743b708bac6"
+  },
+  {
+    "id": "62",
+    "upgrade_fkey": 162,
+    "pack_fkey": 62,
+    "quantity": 1,
+    "name": "Arc Troopers",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08788NMYK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08788NMYK&linkId=929cd6ad65e6de3472f677d94e55c1c4"
+  },
+  {
+    "id": "59",
+    "upgrade_fkey": 162,
+    "pack_fkey": 59,
+    "quantity": 1,
+    "name": "BX-Series Droid Commandos",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087814K8Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087814K8Z&linkId=1edf34068af8e1c1ce217743b708bac6"
+  },
+  {
+    "id": "62",
+    "upgrade_fkey": 163,
+    "pack_fkey": 62,
+    "quantity": 1,
+    "name": "Arc Troopers",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08788NMYK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08788NMYK&linkId=929cd6ad65e6de3472f677d94e55c1c4"
+  },
+  {
+    "id": "62",
+    "upgrade_fkey": 164,
+    "pack_fkey": 62,
+    "quantity": 1,
+    "name": "Arc Troopers",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08788NMYK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08788NMYK&linkId=929cd6ad65e6de3472f677d94e55c1c4"
+  },
+  {
+    "id": "58",
+    "upgrade_fkey": 165,
+    "pack_fkey": 58,
+    "quantity": 1,
+    "name": "Cassian Andor and K-2SO",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RLFS6H/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RLFS6H&linkId=17fb83123c9700b8d2e00ed2e2f94832"
+  },
+  {
+    "id": "58",
+    "upgrade_fkey": 166,
+    "pack_fkey": 58,
+    "quantity": 1,
+    "name": "Cassian Andor and K-2SO",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RLFS6H/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RLFS6H&linkId=17fb83123c9700b8d2e00ed2e2f94832"
+  },
+  {
+    "id": "57",
+    "upgrade_fkey": 167,
+    "pack_fkey": 57,
+    "quantity": 1,
+    "name": "Iden Versio and ID10",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RL8NY1/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RL8NY1&linkId=daf07c14c99b1310781d79844763d0f9"
+  },
+  {
+    "id": "57",
+    "upgrade_fkey": 168,
+    "pack_fkey": 57,
+    "quantity": 1,
+    "name": "Iden Versio and ID10",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RL8NY1/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RL8NY1&linkId=daf07c14c99b1310781d79844763d0f9"
+  },
+  {
+    "id": "65",
+    "upgrade_fkey": 170,
+    "pack_fkey": 65,
+    "quantity": 1,
+    "name": "Inferno Squad",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087857R6X/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087857R6X&linkId=c44db09dd4f93fdca15d7c12121e8287"
+  },
+  {
+    "id": "65",
+    "upgrade_fkey": 171,
+    "pack_fkey": 65,
+    "quantity": 1,
+    "name": "Inferno Squad",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087857R6X/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087857R6X&linkId=c44db09dd4f93fdca15d7c12121e8287"
+  },
+  {
+    "id": "61",
+    "upgrade_fkey": 172,
+    "pack_fkey": 61,
+    "quantity": 1,
+    "name": "Cad Bane Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0877WW1NC/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0877WW1NC&linkId=cb7b71de18c3c27fe404c00fa1f5bcf7"
+  },
+  {
+    "id": "60",
+    "upgrade_fkey": 172,
+    "pack_fkey": 60,
+    "quantity": 1,
+    "name": "Padme Amidala Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08784TZMR/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08784TZMR&linkId=57c71abd63ca686363a2d06cd04d305f"
+  },
+  {
+    "id": "61",
+    "upgrade_fkey": 173,
+    "pack_fkey": 61,
+    "quantity": 1,
+    "name": "Cad Bane Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0877WW1NC/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0877WW1NC&linkId=cb7b71de18c3c27fe404c00fa1f5bcf7"
+  },
+  {
+    "id": "59",
+    "upgrade_fkey": 174,
+    "pack_fkey": 59,
+    "quantity": 1,
+    "name": "BX-Series Droid Commandos",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087814K8Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087814K8Z&linkId=1edf34068af8e1c1ce217743b708bac6"
+  },
+  {
+    "id": "64",
+    "upgrade_fkey": 175,
+    "pack_fkey": 64,
+    "quantity": 1,
+    "name": "Clan Wren",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0878249BM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0878249BM&linkId=fe8e6d1a0c6e0e64cbbfac467a0dfac0"
+  },
+  {
+    "id": "64",
+    "upgrade_fkey": 177,
+    "pack_fkey": 64,
+    "quantity": 1,
+    "name": "Clan Wren",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0878249BM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0878249BM&linkId=fe8e6d1a0c6e0e64cbbfac467a0dfac0"
+  },
+  {
+    "id": "64",
+    "upgrade_fkey": 178,
+    "pack_fkey": 64,
+    "quantity": 1,
+    "name": "Clan Wren",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0878249BM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0878249BM&linkId=fe8e6d1a0c6e0e64cbbfac467a0dfac0"
+  },
+  {
+    "id": "71",
+    "upgrade_fkey": 179,
+    "pack_fkey": 71,
+    "quantity": 1,
+    "name": "Anakin Skywalker",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5KPF8D/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F5KPF8D&linkId=49df7f26b41a12d2c7c90b532c3f6926"
+  },
+  {
+    "id": "70",
+    "upgrade_fkey": 180,
+    "pack_fkey": 70,
+    "quantity": 1,
+    "name": "Republic Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5LJNYF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F5LJNYF&linkId=59b3892524ba231ec1e45261b8e2d029"
+  },
+  {
+    "id": "69",
+    "upgrade_fkey": 181,
+    "pack_fkey": 69,
+    "quantity": 1,
+    "name": "Separatist Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6HMGY4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F6HMGY4&linkId=4fb46b79420401af5d7290c60f3a0146"
+  },
+  {
+    "id": "65",
+    "upgrade_fkey": 182,
+    "pack_fkey": 65,
+    "quantity": 1,
+    "name": "Inferno Squad",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087857R6X/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087857R6X&linkId=c44db09dd4f93fdca15d7c12121e8287"
+  },
+  {
+    "id": "71",
+    "upgrade_fkey": 183,
+    "pack_fkey": 71,
+    "quantity": 1,
+    "name": "Anakin Skywalker",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5KPF8D/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F5KPF8D&linkId=49df7f26b41a12d2c7c90b532c3f6926"
+  },
+  {
+    "id": "71",
+    "upgrade_fkey": 184,
+    "pack_fkey": 71,
+    "quantity": 1,
+    "name": "Anakin Skywalker",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5KPF8D/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F5KPF8D&linkId=49df7f26b41a12d2c7c90b532c3f6926"
+  },
+  {
+    "id": "62",
+    "upgrade_fkey": 157,
+    "pack_fkey": 62,
+    "quantity": 2,
+    "name": "Arc Troopers",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08788NMYK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08788NMYK&linkId=929cd6ad65e6de3472f677d94e55c1c4"
+  },
+  {
+    "id": "71",
+    "upgrade_fkey": 185,
+    "pack_fkey": 71,
+    "quantity": 1,
+    "name": "Anakin Skywalker",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5KPF8D/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F5KPF8D&linkId=49df7f26b41a12d2c7c90b532c3f6926"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 102,
+    "pack_fkey": 34,
+    "quantity": 1,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "3",
+    "upgrade_fkey": 10,
+    "pack_fkey": 3,
+    "quantity": 2,
+    "name": "Core",
+    "release_date": "2018-03-22T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B076JNSDGL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076JNSDGL&linkCode=as2&tag=tabletopadmir-20&linkId=a2f18ae429b1ecb96f98dbe8d81f5609"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 10,
+    "pack_fkey": 37,
+    "quantity": 1,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 10,
+    "pack_fkey": 34,
+    "quantity": 1,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "48",
+    "upgrade_fkey": 148,
+    "pack_fkey": 48,
+    "quantity": 1,
+    "name": "B2 Super Battle Droids",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07W1B68B6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07W1B68B6&linkId=27285f7f6b45dff080b2429f9f647282"
+  },
+  {
+    "id": "13",
+    "upgrade_fkey": 43,
+    "pack_fkey": 13,
+    "quantity": 1,
+    "name": "Han Solo",
+    "release_date": "2018-08-23T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07CB2DYY7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07CB2DYY7&linkId=0cd4ad7f28d816cd9379a69f7600c5ed"
+  },
+  {
+    "id": "12",
+    "upgrade_fkey": 43,
+    "pack_fkey": 12,
+    "quantity": 1,
+    "name": "Rebel Commandos",
+    "release_date": "2018-08-23T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07BW54XLS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BW54XLS&linkId=d4021fcab5f6a8286e5b2904761f9dca"
+  },
+  {
+    "id": "14",
+    "upgrade_fkey": 43,
+    "pack_fkey": 14,
+    "quantity": 1,
+    "name": "Boba Fett",
+    "release_date": "2018-09-27T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07D8K3BT2/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D8K3BT2&linkId=10622fbf008519ee35d689e36664207b"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 43,
+    "pack_fkey": 37,
+    "quantity": 3,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "15",
+    "upgrade_fkey": 43,
+    "pack_fkey": 15,
+    "quantity": 1,
+    "name": "Scout Troopers",
+    "release_date": "2018-09-27T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07D8F9GT6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07D8F9GT6&linkId=29fb753b0dd0c604d96e11c252bcfe01"
+  },
+  {
+    "id": "23",
+    "upgrade_fkey": 43,
+    "pack_fkey": 23,
+    "quantity": 1,
+    "name": "Chewbacca",
+    "release_date": "2018-12-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07G8QY26M/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G8QY26M&linkId=eaf10a9025a5012f872eb8d4f08bcf8c"
+  },
+  {
+    "id": "60",
+    "upgrade_fkey": 43,
+    "pack_fkey": 60,
+    "quantity": 1,
+    "name": "Padme Amidala Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08784TZMR/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08784TZMR&linkId=57c71abd63ca686363a2d06cd04d305f"
+  },
+  {
+    "id": "21",
+    "upgrade_fkey": 50,
+    "pack_fkey": 21,
+    "quantity": 1,
+    "name": "Imperial Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJXD1YS/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJXD1YS&linkId=1bb0063f656114ab54993ba6bedf658b"
+  },
+  {
+    "id": "73",
+    "upgrade_fkey": 186,
+    "pack_fkey": 73,
+    "quantity": 1,
+    "name": "Agent Kallus",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8FDLTL/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8FDLTL&linkId=5c996635c1ff7978803825089106f19b"
+  },
+  {
+    "id": "73",
+    "upgrade_fkey": 187,
+    "pack_fkey": 73,
+    "quantity": 1,
+    "name": "Agent Kallus",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8FDLTL/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8FDLTL&linkId=5c996635c1ff7978803825089106f19b"
+  },
+  {
+    "id": "72",
+    "upgrade_fkey": 188,
+    "pack_fkey": 72,
+    "quantity": 1,
+    "name": "Lando Calrissian",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8C2KK1/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8C2KK1&linkId=17f226b37e8afeda89333f3ee63fa9f9"
+  },
+  {
+    "id": "69",
+    "upgrade_fkey": 189,
+    "pack_fkey": 69,
+    "quantity": 1,
+    "name": "Separatist Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6HMGY4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F6HMGY4&linkId=4fb46b79420401af5d7290c60f3a0146"
+  },
+  {
+    "id": "69",
+    "upgrade_fkey": 190,
+    "pack_fkey": 69,
+    "quantity": 1,
+    "name": "Separatist Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6HMGY4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F6HMGY4&linkId=4fb46b79420401af5d7290c60f3a0146"
+  },
+  {
+    "id": "69",
+    "upgrade_fkey": 191,
+    "pack_fkey": 69,
+    "quantity": 1,
+    "name": "Separatist Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6HMGY4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F6HMGY4&linkId=4fb46b79420401af5d7290c60f3a0146"
+  },
+  {
+    "id": "69",
+    "upgrade_fkey": 192,
+    "pack_fkey": 69,
+    "quantity": 1,
+    "name": "Separatist Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6HMGY4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F6HMGY4&linkId=4fb46b79420401af5d7290c60f3a0146"
+  },
+  {
+    "id": "70",
+    "upgrade_fkey": 193,
+    "pack_fkey": 70,
+    "quantity": 1,
+    "name": "Republic Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5LJNYF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F5LJNYF&linkId=59b3892524ba231ec1e45261b8e2d029"
+  },
+  {
+    "id": "70",
+    "upgrade_fkey": 194,
+    "pack_fkey": 70,
+    "quantity": 1,
+    "name": "Republic Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5LJNYF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F5LJNYF&linkId=59b3892524ba231ec1e45261b8e2d029"
+  },
+  {
+    "id": "70",
+    "upgrade_fkey": 195,
+    "pack_fkey": 70,
+    "quantity": 1,
+    "name": "Republic Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5LJNYF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F5LJNYF&linkId=59b3892524ba231ec1e45261b8e2d029"
+  },
+  {
+    "id": "70",
+    "upgrade_fkey": 196,
+    "pack_fkey": 70,
+    "quantity": 1,
+    "name": "Republic Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5LJNYF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F5LJNYF&linkId=59b3892524ba231ec1e45261b8e2d029"
+  },
+  {
+    "id": "68",
+    "upgrade_fkey": 184,
+    "pack_fkey": 68,
+    "quantity": 1,
+    "name": "Darth Maul and Sith Probe Droids",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6CP7HQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F6CP7HQ&linkId=c90fa3f06d2c8a9b26bc833db7f1ab1b"
+  },
+  {
+    "id": "49",
+    "upgrade_fkey": 152,
+    "pack_fkey": 49,
+    "quantity": 1,
+    "name": "TX-130 Saber-Class Fighter Tank",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSSH525/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSSH525&linkId=fe539bcc1fa6b3b362990b05753c2f24"
+  },
+  {
+    "id": "49",
+    "upgrade_fkey": 153,
+    "pack_fkey": 49,
+    "quantity": 1,
+    "name": "TX-130 Saber-Class Fighter Tank",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSSH525/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSSH525&linkId=fe539bcc1fa6b3b362990b05753c2f24"
+  },
+  {
+    "id": "49",
+    "upgrade_fkey": 147,
+    "pack_fkey": 49,
+    "quantity": 1,
+    "name": "TX-130 Saber-Class Fighter Tank",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSSH525/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSSH525&linkId=fe539bcc1fa6b3b362990b05753c2f24"
+  },
+  {
+    "id": "60",
+    "upgrade_fkey": 173,
+    "pack_fkey": 60,
+    "quantity": 1,
+    "name": "Padme Amidala Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08784TZMR/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08784TZMR&linkId=57c71abd63ca686363a2d06cd04d305f"
+  },
+  {
+    "id": "68",
+    "upgrade_fkey": 185,
+    "pack_fkey": 68,
+    "quantity": 1,
+    "name": "Darth Maul and Sith Probe Droids",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6CP7HQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F6CP7HQ&linkId=c90fa3f06d2c8a9b26bc833db7f1ab1b"
+  },
+  {
+    "id": "65",
+    "upgrade_fkey": 172,
+    "pack_fkey": 65,
+    "quantity": 1,
+    "name": "Inferno Squad",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087857R6X/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087857R6X&linkId=c44db09dd4f93fdca15d7c12121e8287"
+  },
+  {
+    "id": "64",
+    "upgrade_fkey": 172,
+    "pack_fkey": 64,
+    "quantity": 1,
+    "name": "Clan Wren",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0878249BM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0878249BM&linkId=fe8e6d1a0c6e0e64cbbfac467a0dfac0"
+  },
+  {
+    "id": "62",
+    "upgrade_fkey": 172,
+    "pack_fkey": 62,
+    "quantity": 1,
+    "name": "Arc Troopers",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08788NMYK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08788NMYK&linkId=929cd6ad65e6de3472f677d94e55c1c4"
+  },
+  {
+    "id": "59",
+    "upgrade_fkey": 172,
+    "pack_fkey": 59,
+    "quantity": 1,
+    "name": "BX-Series Droid Commandos",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087814K8Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087814K8Z&linkId=1edf34068af8e1c1ce217743b708bac6"
+  },
+  {
+    "id": "66",
+    "upgrade_fkey": 4,
+    "pack_fkey": 66,
+    "quantity": 1,
+    "name": "Republic AT-RT",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08GFK32SY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08GFK32SY&linkId=0fa93bbe6814692218d368b9b2a90b52"
+  },
+  {
+    "id": "37",
+    "upgrade_fkey": 102,
+    "pack_fkey": 37,
+    "quantity": 1,
+    "name": "Upgrade Card Pack",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SVQMWB8/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SVQMWB8&linkId=2dcdc7723e07b2d5533ac25a151b4151"
+  },
+  {
+    "id": "57",
+    "upgrade_fkey": 129,
+    "pack_fkey": 57,
+    "quantity": 1,
+    "name": "Iden Versio and ID10",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RL8NY1/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RL8NY1&linkId=daf07c14c99b1310781d79844763d0f9"
+  },
+  {
+    "id": "51",
+    "upgrade_fkey": 103,
+    "pack_fkey": 51,
+    "quantity": 1,
+    "name": "Imperial Stormtroopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSLQXN/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSLQXN&linkId=8d32c4d211d69fe88846a36dd59e7a08"
+  },
+  {
+    "id": "70",
+    "upgrade_fkey": 191,
+    "pack_fkey": 70,
+    "quantity": 1,
+    "name": "Republic Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5LJNYF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F5LJNYF&linkId=59b3892524ba231ec1e45261b8e2d029"
+  },
+  {
+    "id": "70",
+    "upgrade_fkey": 185,
+    "pack_fkey": 70,
+    "quantity": 1,
+    "name": "Republic Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5LJNYF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F5LJNYF&linkId=59b3892524ba231ec1e45261b8e2d029"
+  },
+  {
+    "id": "70",
+    "upgrade_fkey": 41,
+    "pack_fkey": 70,
+    "quantity": 1,
+    "name": "Republic Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5LJNYF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F5LJNYF&linkId=59b3892524ba231ec1e45261b8e2d029"
+  },
+  {
+    "id": "64",
+    "upgrade_fkey": 173,
+    "pack_fkey": 64,
+    "quantity": 1,
+    "name": "Clan Wren",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0878249BM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0878249BM&linkId=fe8e6d1a0c6e0e64cbbfac467a0dfac0"
+  },
+  {
+    "id": "72",
+    "upgrade_fkey": 191,
+    "pack_fkey": 72,
+    "quantity": 1,
+    "name": "Lando Calrissian",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8C2KK1/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8C2KK1&linkId=17f226b37e8afeda89333f3ee63fa9f9"
+  },
+  {
+    "id": "73",
+    "upgrade_fkey": 191,
+    "pack_fkey": 73,
+    "quantity": 1,
+    "name": "Agent Kallus",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8FDLTL/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8FDLTL&linkId=5c996635c1ff7978803825089106f19b"
+  },
+  {
+    "id": "56",
+    "upgrade_fkey": 65,
+    "pack_fkey": 56,
+    "quantity": 1,
+    "name": "Crashed Escape Pod",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://www.amazon.com/gp/product/B07YFFPHW7/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07YFFPHW7&linkId=2f973798265c0dcd1b21605ee5bb7b5c"
+  },
+  {
+    "id": "72",
+    "upgrade_fkey": 173,
+    "pack_fkey": 72,
+    "quantity": 1,
+    "name": "Lando Calrissian",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8C2KK1/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8C2KK1&linkId=17f226b37e8afeda89333f3ee63fa9f9"
+  },
+  {
+    "id": "72",
+    "upgrade_fkey": 180,
+    "pack_fkey": 72,
+    "quantity": 1,
+    "name": "Lando Calrissian",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8C2KK1/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8C2KK1&linkId=17f226b37e8afeda89333f3ee63fa9f9"
+  },
+  {
+    "id": "72",
+    "upgrade_fkey": 185,
+    "pack_fkey": 72,
+    "quantity": 1,
+    "name": "Lando Calrissian",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8C2KK1/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8C2KK1&linkId=17f226b37e8afeda89333f3ee63fa9f9"
+  },
+  {
+    "id": "72",
+    "upgrade_fkey": 172,
+    "pack_fkey": 72,
+    "quantity": 1,
+    "name": "Lando Calrissian",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8C2KK1/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8C2KK1&linkId=17f226b37e8afeda89333f3ee63fa9f9"
+  },
+  {
+    "id": "20",
+    "upgrade_fkey": 17,
+    "pack_fkey": 20,
+    "quantity": 1,
+    "name": "Rebel Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJZN3WB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJZN3WB&linkId=43b3290ca0499067f6761ce014347161"
+  },
+  {
+    "id": "20",
+    "upgrade_fkey": 58,
+    "pack_fkey": 20,
+    "quantity": 1,
+    "name": "Rebel Specialists",
+    "release_date": "2019-01-24T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07GJZN3WB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJZN3WB&linkId=43b3290ca0499067f6761ce014347161"
+  },
+  {
+    "id": "64",
+    "upgrade_fkey": 162,
+    "pack_fkey": 64,
+    "quantity": 1,
+    "name": "Clan Wren",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0878249BM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0878249BM&linkId=fe8e6d1a0c6e0e64cbbfac467a0dfac0"
+  },
+  {
+    "id": "64",
+    "upgrade_fkey": 176,
+    "pack_fkey": 64,
+    "quantity": 2,
+    "name": "Clan Wren",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0878249BM/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0878249BM&linkId=fe8e6d1a0c6e0e64cbbfac467a0dfac0"
+  },
+  {
+    "id": "58",
+    "upgrade_fkey": 129,
+    "pack_fkey": 58,
+    "quantity": 1,
+    "name": "Cassian Andor and K-2SO",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RLFS6H/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RLFS6H&linkId=17fb83123c9700b8d2e00ed2e2f94832"
+  },
+  {
+    "id": "58",
+    "upgrade_fkey": 33,
+    "pack_fkey": 58,
+    "quantity": 1,
+    "name": "Cassian Andor and K-2SO",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RLFS6H/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RLFS6H&linkId=17fb83123c9700b8d2e00ed2e2f94832"
+  },
+  {
+    "id": "58",
+    "upgrade_fkey": 38,
+    "pack_fkey": 58,
+    "quantity": 1,
+    "name": "Cassian Andor and K-2SO",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RLFS6H/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RLFS6H&linkId=17fb83123c9700b8d2e00ed2e2f94832"
+  },
+  {
+    "id": "58",
+    "upgrade_fkey": 72,
+    "pack_fkey": 58,
+    "quantity": 1,
+    "name": "Cassian Andor and K-2SO",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RLFS6H/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RLFS6H&linkId=17fb83123c9700b8d2e00ed2e2f94832"
+  },
+  {
+    "id": "58",
+    "upgrade_fkey": 58,
+    "pack_fkey": 58,
+    "quantity": 1,
+    "name": "Cassian Andor and K-2SO",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RLFS6H/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RLFS6H&linkId=17fb83123c9700b8d2e00ed2e2f94832"
+  },
+  {
+    "id": "58",
+    "upgrade_fkey": 18,
+    "pack_fkey": 58,
+    "quantity": 1,
+    "name": "Cassian Andor and K-2SO",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RLFS6H/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RLFS6H&linkId=17fb83123c9700b8d2e00ed2e2f94832"
+  },
+  {
+    "id": "58",
+    "upgrade_fkey": 41,
+    "pack_fkey": 58,
+    "quantity": 1,
+    "name": "Cassian Andor and K-2SO",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://www.amazon.com/gp/product/B083RLFS6H/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083RLFS6H&linkId=17fb83123c9700b8d2e00ed2e2f94832"
+  },
+  {
+    "id": "53",
+    "upgrade_fkey": 101,
+    "pack_fkey": 53,
+    "quantity": 1,
+    "name": "Rebel Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSS5LYD/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSS5LYD&linkId=0b08997060e6cbac0e9d4ecf24d5411c"
+  },
+  {
+    "id": "29",
+    "upgrade_fkey": 41,
+    "pack_fkey": 29,
+    "quantity": 1,
+    "name": "X-34 Landspeeder",
+    "release_date": "2019-04-25T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07PLVJV5J/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PLVJV5J&linkId=a88a60fb7c827853ab8fb0a681e66200"
+  },
+  {
+    "id": "43",
+    "upgrade_fkey": 102,
+    "pack_fkey": 43,
+    "quantity": 1,
+    "name": "Luke Skywalker Operative",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VYNP7XV/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VYNP7XV&linkId=6c9f189a731bb04293556a358e7a7932"
+  },
+  {
+    "id": "43",
+    "upgrade_fkey": 33,
+    "pack_fkey": 43,
+    "quantity": 1,
+    "name": "Luke Skywalker Operative",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VYNP7XV/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VYNP7XV&linkId=6c9f189a731bb04293556a358e7a7932"
+  },
+  {
+    "id": "43",
+    "upgrade_fkey": 54,
+    "pack_fkey": 43,
+    "quantity": 1,
+    "name": "Luke Skywalker Operative",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VYNP7XV/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VYNP7XV&linkId=6c9f189a731bb04293556a358e7a7932"
+  },
+  {
+    "id": "25",
+    "upgrade_fkey": 37,
+    "pack_fkey": 25,
+    "quantity": 1,
+    "name": "Rebel Pathfinders",
+    "release_date": "2019-02-21T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07NPJ3G64/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07NPJ3G64&linkId=34a05a9e99266aa166d50c903962f489"
+  },
+  {
+    "id": "44",
+    "upgrade_fkey": 102,
+    "pack_fkey": 44,
+    "quantity": 1,
+    "name": "Darth Vader Operative",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VYNPBV7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07VYNPBV7&linkCode=as2&tag=tabletopadmir-20&linkId=9e53e4ca267f277330d9087229106db9"
+  },
+  {
+    "id": "44",
+    "upgrade_fkey": 54,
+    "pack_fkey": 44,
+    "quantity": 1,
+    "name": "Darth Vader Operative",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VYNPBV7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07VYNPBV7&linkCode=as2&tag=tabletopadmir-20&linkId=9e53e4ca267f277330d9087229106db9"
+  },
+  {
+    "id": "44",
+    "upgrade_fkey": 70,
+    "pack_fkey": 44,
+    "quantity": 1,
+    "name": "Darth Vader Operative",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VYNPBV7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07VYNPBV7&linkCode=as2&tag=tabletopadmir-20&linkId=9e53e4ca267f277330d9087229106db9"
+  },
+  {
+    "id": "60",
+    "upgrade_fkey": 44,
+    "pack_fkey": 60,
+    "quantity": 1,
+    "name": "Padme Amidala Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08784TZMR/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08784TZMR&linkId=57c71abd63ca686363a2d06cd04d305f"
+  },
+  {
+    "id": "60",
+    "upgrade_fkey": 129,
+    "pack_fkey": 60,
+    "quantity": 1,
+    "name": "Padme Amidala Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08784TZMR/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08784TZMR&linkId=57c71abd63ca686363a2d06cd04d305f"
+  },
+  {
+    "id": "46",
+    "upgrade_fkey": 70,
+    "pack_fkey": 46,
+    "quantity": 1,
+    "name": "Clone Captain Rex",
+    "release_date": "2019-11-15T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VZ916JB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VZ916JB&linkId=86ade70f30d340fdc7940d81fa8d126a"
+  },
+  {
+    "id": "46",
+    "upgrade_fkey": 58,
+    "pack_fkey": 46,
+    "quantity": 1,
+    "name": "Clone Captain Rex",
+    "release_date": "2019-11-15T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VZ916JB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VZ916JB&linkId=86ade70f30d340fdc7940d81fa8d126a"
+  },
+  {
+    "id": "46",
+    "upgrade_fkey": 43,
+    "pack_fkey": 46,
+    "quantity": 1,
+    "name": "Clone Captain Rex",
+    "release_date": "2019-11-15T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VZ916JB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VZ916JB&linkId=86ade70f30d340fdc7940d81fa8d126a"
+  },
+  {
+    "id": "46",
+    "upgrade_fkey": 103,
+    "pack_fkey": 46,
+    "quantity": 1,
+    "name": "Clone Captain Rex",
+    "release_date": "2019-11-15T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VZ916JB/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VZ916JB&linkId=86ade70f30d340fdc7940d81fa8d126a"
+  },
+  {
+    "id": "66",
+    "upgrade_fkey": 99,
+    "pack_fkey": 66,
+    "quantity": 1,
+    "name": "Republic AT-RT",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08GFK32SY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08GFK32SY&linkId=0fa93bbe6814692218d368b9b2a90b52"
+  },
+  {
+    "id": "66",
+    "upgrade_fkey": 1,
+    "pack_fkey": 66,
+    "quantity": 1,
+    "name": "Republic AT-RT",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08GFK32SY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08GFK32SY&linkId=0fa93bbe6814692218d368b9b2a90b52"
+  },
+  {
+    "id": "62",
+    "upgrade_fkey": 173,
+    "pack_fkey": 62,
+    "quantity": 1,
+    "name": "Arc Troopers",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08788NMYK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08788NMYK&linkId=929cd6ad65e6de3472f677d94e55c1c4"
+  },
+  {
+    "id": "70",
+    "upgrade_fkey": 188,
+    "pack_fkey": 70,
+    "quantity": 1,
+    "name": "Republic Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5LJNYF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F5LJNYF&linkId=59b3892524ba231ec1e45261b8e2d029"
+  },
+  {
+    "id": "71",
+    "upgrade_fkey": 8,
+    "pack_fkey": 71,
+    "quantity": 1,
+    "name": "Anakin Skywalker",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5KPF8D/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F5KPF8D&linkId=49df7f26b41a12d2c7c90b532c3f6926"
+  },
+  {
+    "id": "71",
+    "upgrade_fkey": 111,
+    "pack_fkey": 71,
+    "quantity": 1,
+    "name": "Anakin Skywalker",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5KPF8D/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F5KPF8D&linkId=49df7f26b41a12d2c7c90b532c3f6926"
+  },
+  {
+    "id": "71",
+    "upgrade_fkey": 45,
+    "pack_fkey": 71,
+    "quantity": 1,
+    "name": "Anakin Skywalker",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F5KPF8D/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F5KPF8D&linkId=49df7f26b41a12d2c7c90b532c3f6926"
+  },
+  {
+    "id": "55",
+    "upgrade_fkey": 101,
+    "pack_fkey": 55,
+    "quantity": 1,
+    "name": "Phase I Clone Troopers Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WRN5945/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WRN5945&linkId=db324d55da69649b5f59b8bf7b4b717c"
+  },
+  {
+    "id": "49",
+    "upgrade_fkey": 99,
+    "pack_fkey": 49,
+    "quantity": 1,
+    "name": "TX-130 Saber-Class Fighter Tank",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSSH525/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSSH525&linkId=fe539bcc1fa6b3b362990b05753c2f24"
+  },
+  {
+    "id": "49",
+    "upgrade_fkey": 41,
+    "pack_fkey": 49,
+    "quantity": 1,
+    "name": "TX-130 Saber-Class Fighter Tank",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WSSH525/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WSSH525&linkId=fe539bcc1fa6b3b362990b05753c2f24"
+  },
+  {
+    "id": "47",
+    "upgrade_fkey": 72,
+    "pack_fkey": 47,
+    "quantity": 1,
+    "name": "Phase II Clone Troopers",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WVR5Q27/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WVR5Q27&linkId=8b30b5774101f0f4da3c6a19a3e28d44"
+  },
+  {
+    "id": "47",
+    "upgrade_fkey": 30,
+    "pack_fkey": 47,
+    "quantity": 1,
+    "name": "Phase II Clone Troopers",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WVR5Q27/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WVR5Q27&linkId=8b30b5774101f0f4da3c6a19a3e28d44"
+  },
+  {
+    "id": "42",
+    "upgrade_fkey": 1,
+    "pack_fkey": 42,
+    "quantity": 1,
+    "name": "BARC Speeder",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VXYZ7QG/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VXYZ7QG&linkId=a80fd746759d53550273fbe13cb0ad90"
+  },
+  {
+    "id": "42",
+    "upgrade_fkey": 99,
+    "pack_fkey": 42,
+    "quantity": 2,
+    "name": "BARC Speeder",
+    "release_date": "2019-11-01T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07VXYZ7QG/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VXYZ7QG&linkId=a80fd746759d53550273fbe13cb0ad90"
+  },
+  {
+    "id": "50",
+    "upgrade_fkey": 41,
+    "pack_fkey": 50,
+    "quantity": 1,
+    "name": "AAT Trade Federation Battle Tank",
+    "release_date": "2020-06-05T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WNSMYFK/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WNSMYFK&linkId=d7c6edad7a4caee27c7ec6d2f189813d"
+  },
+  {
+    "id": "54",
+    "upgrade_fkey": 65,
+    "pack_fkey": 54,
+    "quantity": 1,
+    "name": "B1 Battle Droids Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WTRK8ZF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WTRK8ZF&linkId=c7dc9b06183c6280624a2409baa4dac9"
+  },
+  {
+    "id": "54",
+    "upgrade_fkey": 101,
+    "pack_fkey": 54,
+    "quantity": 1,
+    "name": "B1 Battle Droids Upgrade",
+    "release_date": "2020-01-31T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WTRK8ZF/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WTRK8ZF&linkId=c7dc9b06183c6280624a2409baa4dac9"
+  },
+  {
+    "id": "69",
+    "upgrade_fkey": 41,
+    "pack_fkey": 69,
+    "quantity": 1,
+    "name": "Separatist Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6HMGY4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F6HMGY4&linkId=4fb46b79420401af5d7290c60f3a0146"
+  },
+  {
+    "id": "69",
+    "upgrade_fkey": 44,
+    "pack_fkey": 69,
+    "quantity": 1,
+    "name": "Separatist Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6HMGY4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F6HMGY4&linkId=4fb46b79420401af5d7290c60f3a0146"
+  },
+  {
+    "id": "69",
+    "upgrade_fkey": 180,
+    "pack_fkey": 69,
+    "quantity": 1,
+    "name": "Separatist Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6HMGY4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F6HMGY4&linkId=4fb46b79420401af5d7290c60f3a0146"
+  },
+  {
+    "id": "61",
+    "upgrade_fkey": 1,
+    "pack_fkey": 61,
+    "quantity": 1,
+    "name": "Cad Bane Operative",
+    "release_date": "2020-07-17T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B0877WW1NC/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0877WW1NC&linkId=cb7b71de18c3c27fe404c00fa1f5bcf7"
+  },
+  {
+    "id": "59",
+    "upgrade_fkey": 160,
+    "pack_fkey": 59,
+    "quantity": 2,
+    "name": "BX-Series Droid Commandos",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087814K8Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087814K8Z&linkId=1edf34068af8e1c1ce217743b708bac6"
+  },
+  {
+    "id": "59",
+    "upgrade_fkey": 161,
+    "pack_fkey": 59,
+    "quantity": 2,
+    "name": "BX-Series Droid Commandos",
+    "release_date": "2020-08-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087814K8Z/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087814K8Z&linkId=1edf34068af8e1c1ce217743b708bac6"
+  },
+  {
+    "id": "63",
+    "upgrade_fkey": 169,
+    "pack_fkey": 63,
+    "quantity": 2,
+    "name": "STAP Riders",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08GF7BPPT/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08GF7BPPT&linkId=6f2e14c6e56be9a5b60b5e6e050d41ec"
+  },
+  {
+    "id": "63",
+    "upgrade_fkey": 41,
+    "pack_fkey": 63,
+    "quantity": 1,
+    "name": "STAP Riders",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08GF7BPPT/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08GF7BPPT&linkId=6f2e14c6e56be9a5b60b5e6e050d41ec"
+  },
+  {
+    "id": "63",
+    "upgrade_fkey": 99,
+    "pack_fkey": 63,
+    "quantity": 1,
+    "name": "STAP Riders",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08GF7BPPT/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08GF7BPPT&linkId=6f2e14c6e56be9a5b60b5e6e050d41ec"
+  },
+  {
+    "id": "68",
+    "upgrade_fkey": 58,
+    "pack_fkey": 68,
+    "quantity": 1,
+    "name": "Darth Maul and Sith Probe Droids",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6CP7HQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F6CP7HQ&linkId=c90fa3f06d2c8a9b26bc833db7f1ab1b"
+  },
+  {
+    "id": "68",
+    "upgrade_fkey": 8,
+    "pack_fkey": 68,
+    "quantity": 1,
+    "name": "Darth Maul and Sith Probe Droids",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6CP7HQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F6CP7HQ&linkId=c90fa3f06d2c8a9b26bc833db7f1ab1b"
+  },
+  {
+    "id": "68",
+    "upgrade_fkey": 129,
+    "pack_fkey": 68,
+    "quantity": 1,
+    "name": "Darth Maul and Sith Probe Droids",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6CP7HQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F6CP7HQ&linkId=c90fa3f06d2c8a9b26bc833db7f1ab1b"
+  },
+  {
+    "id": "68",
+    "upgrade_fkey": 179,
+    "pack_fkey": 68,
+    "quantity": 1,
+    "name": "Darth Maul and Sith Probe Droids",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6CP7HQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F6CP7HQ&linkId=c90fa3f06d2c8a9b26bc833db7f1ab1b"
+  },
+  {
+    "id": "68",
+    "upgrade_fkey": 1,
+    "pack_fkey": 68,
+    "quantity": 1,
+    "name": "Darth Maul and Sith Probe Droids",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6CP7HQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F6CP7HQ&linkId=c90fa3f06d2c8a9b26bc833db7f1ab1b"
+  },
+  {
+    "id": "68",
+    "upgrade_fkey": 111,
+    "pack_fkey": 68,
+    "quantity": 1,
+    "name": "Darth Maul and Sith Probe Droids",
+    "release_date": "2020-11-20T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6CP7HQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08F6CP7HQ&linkId=c90fa3f06d2c8a9b26bc833db7f1ab1b"
+  },
+  {
+    "id": "48",
+    "upgrade_fkey": 41,
+    "pack_fkey": 48,
+    "quantity": 1,
+    "name": "B2 Super Battle Droids",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07W1B68B6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07W1B68B6&linkId=27285f7f6b45dff080b2429f9f647282"
+  },
+  {
+    "id": "48",
+    "upgrade_fkey": 130,
+    "pack_fkey": 48,
+    "quantity": 1,
+    "name": "B2 Super Battle Droids",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07W1B68B6/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07W1B68B6&linkId=27285f7f6b45dff080b2429f9f647282"
+  },
+  {
+    "id": "65",
+    "upgrade_fkey": 129,
+    "pack_fkey": 65,
+    "quantity": 1,
+    "name": "Inferno Squad",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087857R6X/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087857R6X&linkId=c44db09dd4f93fdca15d7c12121e8287"
+  },
+  {
+    "id": "65",
+    "upgrade_fkey": 173,
+    "pack_fkey": 65,
+    "quantity": 1,
+    "name": "Inferno Squad",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087857R6X/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087857R6X&linkId=c44db09dd4f93fdca15d7c12121e8287"
+  },
+  {
+    "id": "65",
+    "upgrade_fkey": 162,
+    "pack_fkey": 65,
+    "quantity": 1,
+    "name": "Inferno Squad",
+    "release_date": "2020-09-11T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B087857R6X/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B087857R6X&linkId=c44db09dd4f93fdca15d7c12121e8287"
+  },
+  {
+    "id": "73",
+    "upgrade_fkey": 188,
+    "pack_fkey": 73,
+    "quantity": 1,
+    "name": "Agent Kallus",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8FDLTL/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8FDLTL&linkId=5c996635c1ff7978803825089106f19b"
+  },
+  {
+    "id": "73",
+    "upgrade_fkey": 172,
+    "pack_fkey": 73,
+    "quantity": 1,
+    "name": "Agent Kallus",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8FDLTL/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8FDLTL&linkId=5c996635c1ff7978803825089106f19b"
+  },
+  {
+    "id": "73",
+    "upgrade_fkey": 185,
+    "pack_fkey": 73,
+    "quantity": 1,
+    "name": "Agent Kallus",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8FDLTL/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8FDLTL&linkId=5c996635c1ff7978803825089106f19b"
+  },
+  {
+    "id": "73",
+    "upgrade_fkey": 173,
+    "pack_fkey": 73,
+    "quantity": 1,
+    "name": "Agent Kallus",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8FDLTL/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8FDLTL&linkId=5c996635c1ff7978803825089106f19b"
+  },
+  {
+    "id": "73",
+    "upgrade_fkey": 180,
+    "pack_fkey": 73,
+    "quantity": 1,
+    "name": "Agent Kallus",
+    "release_date": "2021-03-19T00:00:00.000Z",
+    "faction_fkey": 2,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08T8FDLTL/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B08T8FDLTL&linkId=5c996635c1ff7978803825089106f19b"
+  },
+  {
+    "id": "47",
+    "upgrade_fkey": 18,
+    "pack_fkey": 47,
+    "quantity": 1,
+    "name": "Phase II Clone Troopers",
+    "release_date": "2020-02-28T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07WVR5Q27/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WVR5Q27&linkId=8b30b5774101f0f4da3c6a19a3e28d44"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 197,
+    "pack_fkey": 74,
+    "quantity": 1,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 198,
+    "pack_fkey": 74,
+    "quantity": 1,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 201,
+    "pack_fkey": 74,
+    "quantity": 1,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 206,
+    "pack_fkey": 74,
+    "quantity": 1,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 207,
+    "pack_fkey": 74,
+    "quantity": 1,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 208,
+    "pack_fkey": 74,
+    "quantity": 1,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 209,
+    "pack_fkey": 74,
+    "quantity": 1,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 210,
+    "pack_fkey": 74,
+    "quantity": 1,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 211,
+    "pack_fkey": 74,
+    "quantity": 1,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 212,
+    "pack_fkey": 74,
+    "quantity": 1,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 199,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 200,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 201,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 202,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 203,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 204,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 205,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "78",
+    "upgrade_fkey": 413,
+    "pack_fkey": 78,
+    "quantity": 1,
+    "name": "Republic Wookiees",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 147,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 152,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 153,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 41,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "75",
+    "upgrade_fkey": 99,
+    "pack_fkey": 75,
+    "quantity": 1,
+    "name": "LAAT/LE Patrol Transport",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091JFNKBG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091JFNKBG&linkId=683204a548ef819337335e1dea44985e"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 2,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 41,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 37,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 58,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "34",
+    "upgrade_fkey": 57,
+    "pack_fkey": 34,
+    "quantity": 2,
+    "name": "Clone Wars Core Set",
+    "release_date": "2019-10-18T00:00:00.000Z",
+    "faction_fkey": 3,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B07SWT1S13/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07SWT1S13&linkId=e8820e179a5c830c58b2545054c7dfdc"
+  },
+  {
+    "id": "69",
+    "upgrade_fkey": 188,
+    "pack_fkey": 69,
+    "quantity": 1,
+    "name": "Separatist Specialists",
+    "release_date": "2021-01-22T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": "https://www.amazon.com/gp/product/B08F6HMGY4/ref=as_li_tl?ie=UTF8&tag=tabletopadmir-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08F6HMGY4&linkId=4fb46b79420401af5d7290c60f3a0146"
+  },
+  {
+    "id": "74",
+    "upgrade_fkey": 82,
+    "pack_fkey": 74,
+    "quantity": 2,
+    "name": "A-A5 Speeder Truck",
+    "release_date": "2021-05-20T00:00:00.000Z",
+    "faction_fkey": 1,
+    "affiliate_link": "https://smile.amazon.com/gp/product/B091QFR5WX/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=tabletopadmir-20&creative=9325&linkCode=as2&creativeASIN=B091QFR5WX&linkId=eada0ed03055758c926ee916439c844f"
+  },
+  {
+    "id": "83",
+    "upgrade_fkey": 962,
+    "pack_fkey": 83,
+    "quantity": 1,
+    "name": "DSD1 Dwarf Spider Droid",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "83",
+    "upgrade_fkey": 961,
+    "pack_fkey": 83,
+    "quantity": 1,
+    "name": "DSD1 Dwarf Spider Droid",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "83",
+    "upgrade_fkey": 947,
+    "pack_fkey": 83,
+    "quantity": 1,
+    "name": "DSD1 Dwarf Spider Droid",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "78",
+    "upgrade_fkey": 618,
+    "pack_fkey": 78,
+    "quantity": 1,
+    "name": "Republic Wookiees",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "78",
+    "upgrade_fkey": 627,
+    "pack_fkey": 78,
+    "quantity": 1,
+    "name": "Republic Wookiees",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "78",
+    "upgrade_fkey": 628,
+    "pack_fkey": 78,
+    "quantity": 1,
+    "name": "Republic Wookiees",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "82",
+    "upgrade_fkey": 932,
+    "pack_fkey": 82,
+    "quantity": 1,
+    "name": "Raddaugh Gnasp Fluttercraft",
+    "release_date": "2021-11-26T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "82",
+    "upgrade_fkey": 919,
+    "pack_fkey": 82,
+    "quantity": 1,
+    "name": "Raddaugh Gnasp Fluttercraft",
+    "release_date": "2021-11-26T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "79",
+    "upgrade_fkey": 883,
+    "pack_fkey": 79,
+    "quantity": 1,
+    "name": "IG-100 MagnaGuards",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "79",
+    "upgrade_fkey": 884,
+    "pack_fkey": 79,
+    "quantity": 1,
+    "name": "IG-100 MagnaGuards",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "79",
+    "upgrade_fkey": 885,
+    "pack_fkey": 79,
+    "quantity": 1,
+    "name": "IG-100 MagnaGuards",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "81",
+    "upgrade_fkey": 960,
+    "pack_fkey": 81,
+    "quantity": 1,
+    "name": "Infantry Support Platform",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "81",
+    "upgrade_fkey": 965,
+    "pack_fkey": 81,
+    "quantity": 1,
+    "name": "Infantry Support Platform",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "81",
+    "upgrade_fkey": 963,
+    "pack_fkey": 81,
+    "quantity": 1,
+    "name": "Infantry Support Platform",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "81",
+    "upgrade_fkey": 964,
+    "pack_fkey": 81,
+    "quantity": 1,
+    "name": "Infantry Support Platform",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "83",
+    "upgrade_fkey": 950,
+    "pack_fkey": 83,
+    "quantity": 1,
+    "name": "DSD1 Dwarf Spider Droid",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "83",
+    "upgrade_fkey": 948,
+    "pack_fkey": 83,
+    "quantity": 1,
+    "name": "DSD1 Dwarf Spider Droid",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "83",
+    "upgrade_fkey": 949,
+    "pack_fkey": 83,
+    "quantity": 1,
+    "name": "DSD1 Dwarf Spider Droid",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "83",
+    "upgrade_fkey": 918,
+    "pack_fkey": 83,
+    "quantity": 1,
+    "name": "DSD1 Dwarf Spider Droid",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "78",
+    "upgrade_fkey": 188,
+    "pack_fkey": 78,
+    "quantity": 1,
+    "name": "Republic Wookiees",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "78",
+    "upgrade_fkey": 54,
+    "pack_fkey": 78,
+    "quantity": 1,
+    "name": "Republic Wookiees",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "78",
+    "upgrade_fkey": 180,
+    "pack_fkey": 78,
+    "quantity": 1,
+    "name": "Republic Wookiees",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "77",
+    "upgrade_fkey": 191,
+    "pack_fkey": 77,
+    "quantity": 1,
+    "name": "Jedi Master Yoda",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "77",
+    "upgrade_fkey": 626,
+    "pack_fkey": 77,
+    "quantity": 2,
+    "name": "Jedi Master Yoda",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "77",
+    "upgrade_fkey": 625,
+    "pack_fkey": 77,
+    "quantity": 2,
+    "name": "Jedi Master Yoda",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "77",
+    "upgrade_fkey": 184,
+    "pack_fkey": 77,
+    "quantity": 1,
+    "name": "Jedi Master Yoda",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "77",
+    "upgrade_fkey": 628,
+    "pack_fkey": 77,
+    "quantity": 1,
+    "name": "Jedi Master Yoda",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "77",
+    "upgrade_fkey": 627,
+    "pack_fkey": 77,
+    "quantity": 1,
+    "name": "Jedi Master Yoda",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "79",
+    "upgrade_fkey": 918,
+    "pack_fkey": 79,
+    "quantity": 1,
+    "name": "IG-100 MagnaGuards",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "79",
+    "upgrade_fkey": 628,
+    "pack_fkey": 79,
+    "quantity": 1,
+    "name": "IG-100 MagnaGuards",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "79",
+    "upgrade_fkey": 627,
+    "pack_fkey": 79,
+    "quantity": 1,
+    "name": "IG-100 MagnaGuards",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "79",
+    "upgrade_fkey": 54,
+    "pack_fkey": 79,
+    "quantity": 1,
+    "name": "IG-100 MagnaGuards",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "79",
+    "upgrade_fkey": 162,
+    "pack_fkey": 79,
+    "quantity": 1,
+    "name": "IG-100 MagnaGuards",
+    "release_date": "2021-12-03T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "78",
+    "upgrade_fkey": 51,
+    "pack_fkey": 78,
+    "quantity": 1,
+    "name": "Republic Wookiees",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "78",
+    "upgrade_fkey": 58,
+    "pack_fkey": 78,
+    "quantity": 1,
+    "name": "Republic Wookiees",
+    "release_date": "2021-10-31T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "80",
+    "upgrade_fkey": 26,
+    "pack_fkey": 80,
+    "quantity": 1,
+    "name": "Super Tactical Droid",
+    "release_date": "2021-11-26T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "80",
+    "upgrade_fkey": 188,
+    "pack_fkey": 80,
+    "quantity": 1,
+    "name": "Super Tactical Droid",
+    "release_date": "2021-11-26T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "80",
+    "upgrade_fkey": 191,
+    "pack_fkey": 80,
+    "quantity": 1,
+    "name": "Super Tactical Droid",
+    "release_date": "2021-11-26T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "80",
+    "upgrade_fkey": 918,
+    "pack_fkey": 80,
+    "quantity": 1,
+    "name": "Super Tactical Droid",
+    "release_date": "2021-11-26T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "80",
+    "upgrade_fkey": 628,
+    "pack_fkey": 80,
+    "quantity": 1,
+    "name": "Super Tactical Droid",
+    "release_date": "2021-11-26T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "80",
+    "upgrade_fkey": 180,
+    "pack_fkey": 80,
+    "quantity": 1,
+    "name": "Super Tactical Droid",
+    "release_date": "2021-11-26T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  },
+  {
+    "id": "82",
+    "upgrade_fkey": 918,
+    "pack_fkey": 82,
+    "quantity": 1,
+    "name": "Raddaugh Gnasp Fluttercraft",
+    "release_date": "2021-11-26T00:00:00.000Z",
+    "faction_fkey": 4,
+    "affiliate_link": null
+  },
+  {
+    "id": "80",
+    "upgrade_fkey": 1,
+    "pack_fkey": 80,
+    "quantity": 1,
+    "name": "Super Tactical Droid",
+    "release_date": "2021-11-26T00:00:00.000Z",
+    "faction_fkey": 5,
+    "affiliate_link": null
+  }
+]

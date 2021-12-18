@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@caldwell619/component-toolkit": {
+      "signature": "c5ebf75eaa9b7f9fc329db1f109fe3b4",
+      "file": true
+    }
+  }
+}
