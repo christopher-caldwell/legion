@@ -1,6 +1,7 @@
 import { AppProps } from 'next/app'
 import Head from 'next/head'
 import { ToolkitProvider, WhichThemeProvider, ThemeProvider, Footer, HeaderProps } from '@caldwell619/component-toolkit'
+import { RecoilRoot } from 'recoil'
 
 import '../styles/index.css'
 import { defaultSeo } from '../constants/seo'
@@ -16,8 +17,10 @@ function MyApp({ Component, pageProps }: AppProps) {
       </Head>
       <WhichThemeProvider>
         <ThemeProvider>
-          <Component {...pageProps} />
-          <Footer links={[]} />
+          <RecoilRoot>
+            <Component {...pageProps} />
+            <Footer links={[]} />
+          </RecoilRoot>
         </ThemeProvider>
       </WhichThemeProvider>
     </ToolkitProvider>
@@ -25,8 +28,8 @@ function MyApp({ Component, pageProps }: AppProps) {
 }
 export default MyApp
 
-const url = require('../assets/images/logo.png')?.default?.src
-console.log('url', url)
+const url = require('../assets/images/logo.png')
+// console.log('url', url)
 const headerConfig: HeaderProps = {
   logo: {
     url,

@@ -11,13 +11,18 @@
   },
   "dependencies": {
     "@caldwell619/component-toolkit": "file:.yalc/@caldwell619/component-toolkit",
+    "@caldwell619/github-slugger": "^0.0.1",
+    "fuse.js": "^6.4.6",
     "next": "^12.0.7",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "recoil": "^0.5.2",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
+    "@types/uuid": "^8.3.3",
     "eslint": "^8.5.0",
     "eslint-config-next": "^12.0.7",
     "eslint-plugin-prettier": "^4.0.0",
