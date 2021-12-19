@@ -1,4 +1,5 @@
 import { FC } from 'react'
+import { Grid } from '@mui/material'
 
 import { useListBuilder } from 'features/list-builder/api'
 import { ViewScreenCenterBox } from 'components'
@@ -10,10 +11,10 @@ export const SelectedUnits: FC = () => {
     return <ViewScreenCenterBox height='80%'>Such Empty</ViewScreenCenterBox>
   }
   return (
-    <>
+    <Grid container spacing={4}>
       {list.map(listUnit => (
         <SelectedUnit {...listUnit} key={listUnit.id} />
       ))}
-    </>
+    </Grid>
   )
 }

@@ -1,6 +1,6 @@
 import { FC } from 'react'
 import { Grid, IconButton } from '@mui/material'
-import Delete from '@mui/icons-material/DeleteForever'
+import Delete from '@mui/icons-material/Delete'
 
 import { Label, LabelContainer, Points } from 'features/list-builder/components'
 import { ListUnit } from 'store'
@@ -28,7 +28,7 @@ export const SelectedUnit: FC<ListUnit> = ({ id, unitType, title, subtitle, poin
       </Grid>
       <Grid item xs={2} alignItems='center' justifyContent='flex-end' container>
         <IconButton onClick={() => removeUnit(id)}>
-          <Delete />
+          <Delete color='error' />
         </IconButton>
       </Grid>
     </Grid>

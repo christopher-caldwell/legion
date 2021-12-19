@@ -1,18 +1,11 @@
 import { atom } from 'recoil'
 
 import { AtomKeys } from 'store/keys'
-import { BaseUnit } from 'constants/units/empire'
+import { BaseUnit } from 'constants/units/empire/shared'
+import { Upgrade } from './types'
 
-export enum UnitType {
-  Commander = 'commander',
-  Operative = 'operative',
-  Corps = 'corps',
-  SpecialForces = 'special-forces',
-  Support = 'support',
-  Heavy = 'heavy',
-}
 export interface Unit extends BaseUnit {
-  upgrades: []
+  upgrades: Upgrade[]
 }
 
 export interface ListUnit extends Unit {

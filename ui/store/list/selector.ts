@@ -1,7 +1,8 @@
 import { selector } from 'recoil'
 
 import { SelectorKeys } from 'store/keys'
-import { listAtom, UnitType } from './atoms'
+import { listAtom } from './atoms'
+import { UnitType } from './types'
 
 export const hasChosenCommanderSelector = selector<boolean>({
   key: SelectorKeys.HasChosenCommander,
