@@ -25,6 +25,7 @@ export const ScrollTabs: FC<Props> = ({ tabs }) => {
           ))}
         </Tabs>
       </Box>
+      {/* TODO: Swipeable Views */}
       <Grid spacing={4} sx={{ padding: ({ spacing }) => spacing(2) }} container item xs={12}>
         {View}
       </Grid>

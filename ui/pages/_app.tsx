@@ -16,6 +16,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel='dns-prefetch' href='//www.google.com'></link>
       </Head>
       <WhichThemeProvider>
+        {/* TODO: Build coloring and passing a custom theme */}
         <ThemeProvider>
           <RecoilRoot>
             <Component {...pageProps} />

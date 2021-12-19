@@ -1,14 +1,15 @@
 import { FC } from 'react'
 import { GetStaticProps, GetStaticPaths } from 'next'
-import { Grid } from '@mui/material'
-import { Layout, Row } from '@caldwell619/component-toolkit'
+import { Layout } from '@caldwell619/component-toolkit'
 
-import { Options } from 'features/builder'
+import { Options } from 'features/list-builder'
+import { ListManager } from 'features/list-manager'
 
 const FactionBuilder: FC<Props> = ({ faction }) => {
   return (
     <Layout seo={{ title: faction }}>
       <Options />
+      <ListManager />
     </Layout>
   )
 }

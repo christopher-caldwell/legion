@@ -5,7 +5,7 @@ import { BaseUnit } from 'constants/units/empire'
 
 export enum UnitType {
   Commander = 'commander',
-  Operatives = 'operatives',
+  Operative = 'operative',
   Corps = 'corps',
   SpecialForces = 'special-forces',
   Support = 'support',
@@ -13,7 +13,6 @@ export enum UnitType {
 }
 export interface Unit extends BaseUnit {
   upgrades: []
-  unitType: UnitType
 }
 
 export interface ListUnit extends Unit {
@@ -23,4 +22,9 @@ export interface ListUnit extends Unit {
 export const listAtom = atom<ListUnit[]>({
   key: AtomKeys.List,
   default: [],
+})
+
+export const listNameAtom = atom<string>({
+  key: AtomKeys.ListName,
+  default: 'Super Sweet List',
 })

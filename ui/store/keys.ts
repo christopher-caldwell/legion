@@ -1,5 +1,6 @@
 export enum AtomKeys {
   List = 'list',
+  ListName = 'list-name',
 }
 
 export enum SelectorKeys {

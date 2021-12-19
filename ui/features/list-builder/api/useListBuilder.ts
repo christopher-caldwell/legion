@@ -1,12 +1,15 @@
-import { useRecoilState } from 'recoil'
+import { useRecoilState, useRecoilValue } from 'recoil'
 import { v4 as uuid } from 'uuid'
 
-import { listAtom, Unit } from 'store'
+import { listAtom, listPointsSelector, hasChosenCommanderSelector } from 'store'
+import { BaseUnit } from 'constants/units/empire'
 
 export const useListBuilder = () => {
   const [list, setList] = useRecoilState(listAtom)
+  const listPoints = useRecoilValue(listPointsSelector)
+  const hasChosenCommander = useRecoilValue(hasChosenCommanderSelector)
 
-  const addUnit = (unit: Omit<Unit, 'upgrades'>): void => {
+  const addUnit = (unit: BaseUnit): void => {
     setList(currentList => [
       {
         id: uuid(),
@@ -26,5 +29,7 @@ export const useListBuilder = () => {
     removeUnit,
     addUnit,
     list,
+    listPoints,
+    hasChosenCommander,
   }
 }
