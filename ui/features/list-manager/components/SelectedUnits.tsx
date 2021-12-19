@@ -11,7 +11,7 @@ export const SelectedUnits: FC = () => {
     return <ViewScreenCenterBox height='80%'>Such Empty</ViewScreenCenterBox>
   }
   return (
-    <Grid container spacing={4}>
+    <Grid container spacing={4} sx={{ paddingBottom: '10vh' }}>
       {list.map(listUnit => (
         <SelectedUnit {...listUnit} key={listUnit.id} />
       ))}
