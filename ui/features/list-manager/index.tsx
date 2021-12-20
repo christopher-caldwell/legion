@@ -3,13 +3,14 @@ import { Typography, Grid, styled, Card as MuiCard, CardContent, CardHeader } fr
 import { useRecoilValue } from 'recoil'
 
 import { listPointsLimit } from 'constants/list'
-import { listAtom, listNameAtom, listPointsSelector } from 'store'
+import { listAtom, listNameAtom, listPointsSelector, listUnitActiveUpgradesAtom } from 'store'
 import { FullScreenDialog } from 'components'
-import { SelectedUnits } from './components'
+import { SelectedUnits, UpgradeSelection } from './components'
 
 export const ListManager: FC = () => {
   const listName = useRecoilValue(listNameAtom)
   const listPoints = useRecoilValue(listPointsSelector)
+  const activeUpgrade = useRecoilValue(listUnitActiveUpgradesAtom)
   const list = useRecoilValue(listAtom)
   const [isOpen, setIsOpen] = useState(false)
   return (
@@ -32,7 +33,8 @@ export const ListManager: FC = () => {
         </Grid>
       </Card>
       <FullScreenDialog isOpen={isOpen} setIsOpen={setIsOpen}>
-        <SelectedUnits />
+        {/* TODO: Transition animations */}
+        {activeUpgrade ? <UpgradeSelection /> : <SelectedUnits />}
       </FullScreenDialog>
     </>
   )

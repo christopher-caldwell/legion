@@ -1,11 +1,12 @@
 export enum AtomKeys {
   List = 'list',
   ListName = 'list-name',
+  ListUnitActiveUpgrade = 'list-unit-active-upgrade',
 }
 
 export enum SelectorKeys {
   HasChosenCommander = 'has-chosen-commander',
-  ListPoints = 'list-points'
+  ListPoints = 'list-points',
 }
 
 export const ensureKeysAreUnique = <KeyType>(keys: KeyType): boolean => {

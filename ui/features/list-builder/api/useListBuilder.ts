@@ -15,6 +15,7 @@ export const useListBuilder = () => {
         id: uuid(),
         ...unit,
         upgrades: [],
+        updatedAt: new Date(),
       },
       ...currentList,
     ])

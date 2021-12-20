@@ -1,3 +1,5 @@
+import { BaseUnit } from 'constants/units/empire/shared'
+
 export enum UnitType {
   Commander = 'commander',
   Operative = 'operative',
@@ -61,4 +63,18 @@ export interface Upgrade {
   /** Slugged name of the expansion pack(s) this card comes in */
   availableThrough?: string[]
   imageSlug: string
+}
+
+export interface ListUnitActiveUpgrade {
+  id: string
+  upgrade: UpgradeType
+}
+
+export interface Unit extends BaseUnit {
+  upgrades: Upgrade[]
+}
+
+export interface ListUnit extends Unit {
+  id: string
+  updatedAt: Date
 }
