@@ -1,6 +1,7 @@
 import { FC, useState } from 'react'
-import { Typography, Grid, styled, Card as MuiCard, CardContent, CardHeader } from '@mui/material'
-import { useRecoilValue } from 'recoil'
+import { Typography, Grid, styled, Button, Card as MuiCard, CardContent, CardHeader } from '@mui/material'
+import { useRecoilState, useRecoilValue, useSetRecoilState } from 'recoil'
+import BackIcon from '@mui/icons-material/ChevronLeft'
 
 import { listPointsLimit } from 'constants/list'
 import { listAtom, listNameAtom, listPointsSelector, listUnitActiveUpgradesAtom } from 'store'
@@ -10,7 +11,7 @@ import { SelectedUnits, UpgradeSelection } from './components'
 export const ListManager: FC = () => {
   const listName = useRecoilValue(listNameAtom)
   const listPoints = useRecoilValue(listPointsSelector)
-  const activeUpgrade = useRecoilValue(listUnitActiveUpgradesAtom)
+  const [activeUpgrade, setActiveUpgrade] = useRecoilState(listUnitActiveUpgradesAtom)
   const list = useRecoilValue(listAtom)
   const [isOpen, setIsOpen] = useState(false)
   return (
@@ -32,7 +33,22 @@ export const ListManager: FC = () => {
           </Grid>
         </Grid>
       </Card>
-      <FullScreenDialog isOpen={isOpen} setIsOpen={setIsOpen}>
+      <FullScreenDialog
+        isOpen={isOpen}
+        setIsOpen={setIsOpen}
+        LeftAction={
+          activeUpgrade ? (
+            <Button
+              startIcon={<BackIcon />}
+              variant='text'
+              sx={{ color: ({ palette: { text } }) => text.primary }}
+              onClick={() => setActiveUpgrade(undefined)}
+            >
+              Back
+            </Button>
+          ) : undefined
+        }
+      >
         {/* TODO: Transition animations */}
         {activeUpgrade ? <UpgradeSelection /> : <SelectedUnits />}
       </FullScreenDialog>

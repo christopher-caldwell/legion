@@ -1,6 +1,6 @@
 import { slugger } from '@caldwell619/github-slugger'
-import { Expansions, UnitType, UpgradeType } from 'store'
 
+import { Expansions, UnitType, UpgradeType, Faction } from 'store'
 import { BaseUnit } from './shared'
 
 export const heavyUnits: BaseUnit[] = [
@@ -16,6 +16,7 @@ export const heavyUnits: BaseUnit[] = [
       UpgradeType.Hardpoint,
       UpgradeType.Comms,
     ],
+    faction: Faction.Empire,
     availableThrough: [slugger(Expansions.AtSt)],
     get imageSlug() {
       return slugger(this.title)
@@ -28,6 +29,7 @@ export const heavyUnits: BaseUnit[] = [
     unitType: UnitType.Heavy,
     upgradeSlots: [UpgradeType.Pilot, UpgradeType.Hardpoint, UpgradeType.Comms],
     availableThrough: [slugger(Expansions.AssaultTank)],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -39,6 +41,7 @@ export const heavyUnits: BaseUnit[] = [
     unitType: UnitType.Heavy,
     upgradeSlots: [UpgradeType.Pilot, UpgradeType.Comms, UpgradeType.Ordnance],
     availableThrough: [slugger(Expansions.LaatPatrol)],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },

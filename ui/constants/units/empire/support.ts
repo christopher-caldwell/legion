@@ -1,6 +1,6 @@
 import { slugger } from '@caldwell619/github-slugger'
-import { Expansions, UnitType, UpgradeType } from 'store'
 
+import { Expansions, UnitType, UpgradeType, Faction } from 'store'
 import { BaseUnit } from './shared'
 
 export const supportUnits: BaseUnit[] = [
@@ -11,6 +11,7 @@ export const supportUnits: BaseUnit[] = [
     unitType: UnitType.Support,
     availableThrough: [slugger(Expansions.ImperialSpeeder)],
     upgradeSlots: [UpgradeType.Comms],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -22,6 +23,8 @@ export const supportUnits: BaseUnit[] = [
     unitType: UnitType.Support,
     availableThrough: [slugger(Expansions.Eweb)],
     upgradeSlots: [UpgradeType.Comms, UpgradeType.Generator],
+    faction: Faction.Empire,
+    isEmplacement: true,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -33,6 +36,7 @@ export const supportUnits: BaseUnit[] = [
     unitType: UnitType.Support,
     availableThrough: [slugger(Expansions.Dewback)],
     upgradeSlots: [UpgradeType.Training, UpgradeType.Comms, UpgradeType.Armament],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },

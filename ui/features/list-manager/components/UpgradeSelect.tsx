@@ -1,28 +1,43 @@
 import { FC } from 'react'
-import { useRecoilState, useRecoilValue } from 'recoil'
-import { Grid, Button } from '@mui/material'
-import BackIcon from '@mui/icons-material/ChevronLeft'
+import { useRecoilValue } from 'recoil'
+import { styled, Grid } from '@mui/material'
 
-import { Upgrade, listUnitActiveUpgradesAtom, ListUnitActiveUpgrade, listAtom, Alignment, Faction } from 'store'
+import AddIcon from '@mui/icons-material/Add'
+import { slugger } from '@caldwell619/github-slugger'
+
+import { CardOption } from 'components'
+import { Upgrade, listUnitActiveUpgradesAtom, ListUnitActiveUpgrade, listAtom } from 'store'
 import { allUpgrades } from 'constants/upgrades'
+import { humanizeWord, capitalize } from 'utils'
 
 export const UpgradeSelection: FC = () => {
-  const [activeUpgrade, setActiveUpgrade] = useRecoilState(listUnitActiveUpgradesAtom)
+  const activeUpgrade = useRecoilValue(listUnitActiveUpgradesAtom)
   if (!activeUpgrade) throw new Error('Nope')
-  const eligibleUpgrades = useDetermineEligibleUpgrades(activeUpgrade)
+  const {
+    eligibleUpgrades,
+    unit: { title },
+  } = useDetermineEligibleUpgrades(activeUpgrade)
+  const upgradeName = capitalize(humanizeWord(activeUpgrade.upgrade))
 
   return (
-    <Grid container>
+    <Grid container spacing={2} sx={{ paddingBottom: '10vh' }}>
       <Grid item xs={12}>
-        <Button startIcon={<BackIcon />} variant='text' onClick={() => setActiveUpgrade(undefined)}>
-          Back
-        </Button>
+        <Title>
+          Adding {upgradeName} to {title}
+        </Title>
       </Grid>
-      <Grid item xs={12}>
-        {eligibleUpgrades.map(upgrade => (
-          <div key={upgrade.title}>{upgrade.title}</div>
-        ))}
-      </Grid>
+      {eligibleUpgrades.map(upgrade => (
+        <CardOption
+          key={upgrade.title}
+          title={upgrade.title}
+          points={upgrade.points}
+          CardImage={<CardImage src={require(`assets/cards/upgrades/${upgrade.type}/${upgrade.imageSlug}.png`)} />}
+          ActionIcon={<AddIcon />}
+          onAction={() => {
+            console.log('Click')
+          }}
+        />
+      ))}
     </Grid>
   )
 }
@@ -31,13 +46,34 @@ const useDetermineEligibleUpgrades = ({ id, upgrade }: ListUnitActiveUpgrade) =>
   const list = useRecoilValue(listAtom)
   const targetedUnit = list.find(({ id: unitId }) => unitId === id)
   if (!targetedUnit) throw new Error('[useDetermineEligibleUpgrades]: Cannot find target unit')
-  const passableUpgrades: Upgrade[] = []
+  const eligibleUpgrades: Upgrade[] = []
   for (const availableUpgrade of allUpgrades) {
     const restriction = availableUpgrade.restriction || {}
     if (availableUpgrade.type !== upgrade) continue
-    if (restriction.alignment && restriction.alignment !== Alignment.Dark) continue
-    if (restriction.faction && restriction.faction !== Faction.Empire) continue
-    passableUpgrades.push(availableUpgrade)
+
+    if (restriction.alignment && restriction.alignment !== targetedUnit.alignment) continue
+    if (restriction.faction && restriction.faction !== targetedUnit.faction) continue
+    if (restriction.isOnlyForVehicles && restriction.vehicleType !== targetedUnit.vehicleType) continue
+    if (restriction.unit && restriction.unit !== slugger(targetedUnit.title)) continue
+    if (restriction.vehicle && restriction.vehicle !== slugger(targetedUnit.title)) continue
+    if (restriction.isOnlyForNonEmplacement && restriction.isOnlyForNonEmplacement !== targetedUnit.isEmplacement)
+      continue
+    if (restriction.isOnlyForDroids && restriction.isOnlyForDroids !== targetedUnit.isDroid) continue
+
+    eligibleUpgrades.push(availableUpgrade)
   }
-  return passableUpgrades
+  return { eligibleUpgrades, unit: targetedUnit }
 }
+
+const Title = styled('h1')`
+  margin: 0;
+  font-size: 1.1em;
+`
+
+const CardImage = styled('img')`
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  object-position: top;
+`

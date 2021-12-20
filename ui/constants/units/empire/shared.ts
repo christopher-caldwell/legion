@@ -1,4 +1,4 @@
-import { Expansions, UnitType, UpgradeType } from 'store'
+import { Alignment, Expansions, Faction, UnitType, UpgradeType, VehicleType } from 'store'
 
 export interface BaseUnit {
   title: string
@@ -10,4 +10,9 @@ export interface BaseUnit {
   /** Slugged name of the expansion pack(s) this card comes in */
   availableThrough?: string[]
   upgradeSlots: UpgradeType[]
+  faction: Faction
+  alignment?: Alignment
+  vehicleType?: VehicleType
+  isDroid?: boolean
+  isEmplacement?: boolean
 }

@@ -1,6 +1,6 @@
 import { slugger } from '@caldwell619/github-slugger'
-import { Expansions, UnitType, UpgradeType } from 'store'
 
+import { Expansions, UnitType, UpgradeType, Faction } from 'store'
 import { BaseUnit } from './shared'
 
 export const specialForcesUnits: BaseUnit[] = [
@@ -17,6 +17,7 @@ export const specialForcesUnits: BaseUnit[] = [
       UpgradeType.Gear,
       UpgradeType.Grenades,
     ],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -27,6 +28,7 @@ export const specialForcesUnits: BaseUnit[] = [
     isUnique: false,
     unitType: UnitType.SpecialForces,
     availableThrough: [slugger(Expansions.RoyalGuards)],
+    faction: Faction.Empire,
     upgradeSlots: [
       UpgradeType.HeavyWeapons,
       UpgradeType.Training,
@@ -45,6 +47,7 @@ export const specialForcesUnits: BaseUnit[] = [
     isUnique: false,
     unitType: UnitType.SpecialForces,
     availableThrough: [slugger(Expansions.ScoutTrooper)],
+    faction: Faction.Empire,
     upgradeSlots: [
       UpgradeType.HeavyWeapons,
       UpgradeType.Training,
@@ -62,6 +65,7 @@ export const specialForcesUnits: BaseUnit[] = [
     isUnique: false,
     unitType: UnitType.SpecialForces,
     availableThrough: [slugger(Expansions.DeathTroopers)],
+    faction: Faction.Empire,
     upgradeSlots: [
       UpgradeType.HeavyWeapons,
       UpgradeType.Training,
@@ -80,6 +84,7 @@ export const specialForcesUnits: BaseUnit[] = [
     isUnique: false,
     unitType: UnitType.SpecialForces,
     availableThrough: [slugger(Expansions.ImperialSpecialForces)],
+    faction: Faction.Empire,
     upgradeSlots: [
       UpgradeType.HeavyWeapons,
       UpgradeType.Training,
@@ -99,6 +104,7 @@ export const specialForcesUnits: BaseUnit[] = [
     isUnique: false,
     unitType: UnitType.SpecialForces,
     availableThrough: [slugger(Expansions.ImperialSpecialForces)],
+    faction: Faction.Empire,
     upgradeSlots: [
       UpgradeType.HeavyWeapons,
       UpgradeType.HeavyWeapons,

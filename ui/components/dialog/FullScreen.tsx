@@ -3,7 +3,7 @@ import { Dialog, AppBar, Toolbar, IconButton, Slide, DialogContent } from '@mui/
 import CloseIcon from '@mui/icons-material/Close'
 import { TransitionProps } from '@mui/material/transitions'
 
-export const FullScreenDialog: FC<Props> = ({ isOpen, setIsOpen, children }) => {
+export const FullScreenDialog: FC<Props> = ({ isOpen, setIsOpen, LeftAction, children }) => {
   const handleClose = () => {
     setIsOpen(false)
   }
@@ -11,7 +11,8 @@ export const FullScreenDialog: FC<Props> = ({ isOpen, setIsOpen, children }) => 
   return (
     <Dialog sx={{ zIndex: 10000000 }} fullScreen open={isOpen} onClose={handleClose} TransitionComponent={Transition}>
       <AppBar sx={{ position: 'relative' }}>
-        <Toolbar sx={{ justifyContent: 'flex-end' }}>
+        <Toolbar sx={{ justifyContent: LeftAction ? 'space-between' : 'flex-end', alignItems: 'center' }}>
+          {LeftAction ? LeftAction : null}
           <IconButton color='inherit' onClick={handleClose} aria-label='close'>
             <CloseIcon color='action' />
           </IconButton>
@@ -23,6 +24,7 @@ export const FullScreenDialog: FC<Props> = ({ isOpen, setIsOpen, children }) => 
 }
 
 interface Props {
+  LeftAction?: JSX.Element
   isOpen: boolean
   setIsOpen: Dispatch<SetStateAction<boolean>>
 }

@@ -1,6 +1,6 @@
 import { slugger } from '@caldwell619/github-slugger'
-import { Expansions, UnitType, UpgradeType } from 'store'
 
+import { Expansions, UnitType, UpgradeType, Faction, Alignment } from 'store'
 import { BaseUnit } from './shared'
 
 export const operativesUnits: BaseUnit[] = [
@@ -10,6 +10,7 @@ export const operativesUnits: BaseUnit[] = [
     points: 120,
     isUnique: true,
     unitType: UnitType.Operative,
+    faction: Faction.Empire,
     upgradeSlots: [UpgradeType.Training, UpgradeType.Training, UpgradeType.Gear, UpgradeType.Gear],
     availableThrough: [slugger(Expansions.Boba)],
     get imageSlug() {
@@ -22,6 +23,7 @@ export const operativesUnits: BaseUnit[] = [
     points: 115,
     isUnique: true,
     unitType: UnitType.Operative,
+    faction: Faction.Empire,
     upgradeSlots: [UpgradeType.Training, UpgradeType.Training, UpgradeType.Gear],
     availableThrough: [slugger(Expansions.Bossk)],
     get imageSlug() {
@@ -34,6 +36,8 @@ export const operativesUnits: BaseUnit[] = [
     points: 175,
     isUnique: true,
     unitType: UnitType.Operative,
+    faction: Faction.Empire,
+    alignment: Alignment.Dark,
     upgradeSlots: [UpgradeType.Force, UpgradeType.Force, UpgradeType.Training, UpgradeType.Training],
     availableThrough: [slugger(Expansions.Vader)],
     get imageSlug() {

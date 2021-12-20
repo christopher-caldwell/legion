@@ -1,6 +1,6 @@
 import { slugger } from '@caldwell619/github-slugger'
-import { UnitType, Expansions, UpgradeType } from 'store'
 
+import { UnitType, Expansions, UpgradeType, Faction, Alignment } from 'store'
 import { BaseUnit } from './shared'
 
 export const commandersUnits: BaseUnit[] = [
@@ -11,7 +11,9 @@ export const commandersUnits: BaseUnit[] = [
     isUnique: true,
     availableThrough: [slugger(Expansions.CoreSet)],
     unitType: UnitType.Commander,
+    alignment: Alignment.Dark,
     upgradeSlots: [UpgradeType.Force, UpgradeType.Force, UpgradeType.Force, UpgradeType.Command],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -24,6 +26,7 @@ export const commandersUnits: BaseUnit[] = [
     availableThrough: [slugger(Expansions.GeneralVeers)],
     unitType: UnitType.Commander,
     upgradeSlots: [UpgradeType.Command, UpgradeType.Command, UpgradeType.Gear],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -35,7 +38,9 @@ export const commandersUnits: BaseUnit[] = [
     isUnique: true,
     availableThrough: [slugger(Expansions.Palpatine)],
     unitType: UnitType.Commander,
+    alignment: Alignment.Dark,
     upgradeSlots: [UpgradeType.Force, UpgradeType.Force, UpgradeType.Force, UpgradeType.Command],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -48,6 +53,7 @@ export const commandersUnits: BaseUnit[] = [
     unitType: UnitType.Commander,
     availableThrough: [slugger(Expansions.ImperialSpecialist)],
     upgradeSlots: [UpgradeType.Command, UpgradeType.Gear],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -60,6 +66,7 @@ export const commandersUnits: BaseUnit[] = [
     unitType: UnitType.Commander,
     upgradeSlots: [UpgradeType.Command, UpgradeType.Command, UpgradeType.Gear],
     availableThrough: [slugger(Expansions.Krennic)],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -78,6 +85,7 @@ export const commandersUnits: BaseUnit[] = [
       UpgradeType.Counterpart,
     ],
     availableThrough: [slugger(Expansions.Iden)],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -90,6 +98,7 @@ export const commandersUnits: BaseUnit[] = [
     unitType: UnitType.Commander,
     upgradeSlots: [UpgradeType.Armament, UpgradeType.Command, UpgradeType.Gear, UpgradeType.Training],
     availableThrough: [slugger(Expansions.Kallus)],
+    faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
     },

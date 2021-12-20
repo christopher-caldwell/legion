@@ -1,7 +1,6 @@
 import { FC, useState } from 'react'
 import { IconButton, Button, Grid, TextField, InputAdornment } from '@mui/material'
 import SortIcon from '@mui/icons-material/ArrowUpward'
-import ShareIcon from '@mui/icons-material/IosShare'
 import SearchIcon from '@mui/icons-material/Search'
 import { useInput, UseInputBind } from '@caldwell619/react-hooks'
 import Fuse from 'fuse.js'
@@ -14,7 +13,7 @@ import { SelectedUnit } from './Unit'
 
 export const SelectedUnits: FC = () => {
   const [sortConfigIndex, setSortConfigIndex] = useState(0)
-  const [isAsc, setIsAsc] = useState(false)
+  const [isAsc, setIsAsc] = useState(true)
   const { list } = useListBuilder()
   const [searchTerm, searchBind] = useInput('')
   const ListSearch = new Fuse(list, { keys: ['points', 'title'], includeScore: true })
@@ -43,11 +42,11 @@ export const SelectedUnits: FC = () => {
     return <ViewScreenCenterBox height='80%'>Such Empty</ViewScreenCenterBox>
   }
   return (
-    <Grid container spacing={3} sx={{ paddingBottom: '10vh' }} alignItems='center'>
+    <Grid container spacing={0} sx={{ paddingBottom: '10vh' }} alignItems='center'>
       <Grid item xs={12}>
         <SearchField {...searchBind} />
       </Grid>
-      <Grid item xs={8}>
+      <Grid item xs={9}>
         {list.length} Activation{list.length === 1 ? '' : 's'}
       </Grid>
       <Grid item xs={1} container alignItems='center'>
@@ -55,19 +54,26 @@ export const SelectedUnits: FC = () => {
           <SortIcon sx={{ transform: `rotate(${isAsc ? 0 : 180}deg)` }} fontSize='small' />
         </IconButton>
       </Grid>
-      <Grid item xs={3} container alignItems='center' justifyContent='flex-end'>
+      <Grid item xs={2} container alignItems='center' justifyContent='flex-end'>
         <Button variant='text' size='small' onClick={handleSortConfigIndexUpdate}>
           {sortConfig.label}
         </Button>
       </Grid>
       {searchResults.map(listUnit => (
-        <SelectedUnit {...listUnit} key={listUnit.id} />
+        <>
+          <Grid item xs={12} sx={{ marginTop: ({ spacing }) => spacing(4) }} />
+          <SelectedUnit {...listUnit} key={listUnit.id} />
+        </>
       ))}
     </Grid>
   )
 }
 
 const sortOptions: { label: string; key: keyof ListUnit }[] = [
+  {
+    label: 'Type',
+    key: 'unitType',
+  },
   {
     label: 'Recent',
     key: 'updatedAt',
