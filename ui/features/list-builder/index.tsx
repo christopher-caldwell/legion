@@ -1,7 +1,7 @@
 import { FC } from 'react'
-import { Grid } from '@mui/material'
+import { Typography, Grid } from '@mui/material'
 
-import { ScrollTabs } from 'components'
+import { ScrollTabs, SortOption } from 'components'
 import {
   commandersUnits,
   operativesUnits,
@@ -13,6 +13,7 @@ import {
   BaseUnit,
 } from 'constants/units/empire'
 import { ListOption } from './components'
+import { SearchAndFilter, useSearch } from 'components'
 
 export const Options: FC = () => {
   return (
@@ -32,10 +33,44 @@ export const Options: FC = () => {
   )
 }
 
-const UnitOptions: FC<{ units: BaseUnit[] }> = ({ units }) => (
-  <>
-    {units.map(unit => (
-      <ListOption key={unit.title + unit.subtitle || ''} {...unit} />
-    ))}
-  </>
-)
+const unitSortConfig: SortOption<BaseUnit>[] = [
+  {
+    label: 'Type',
+    key: 'unitType',
+  },
+  {
+    label: 'Points',
+    key: 'points',
+  },
+  {
+    label: 'Name',
+    key: 'title',
+  },
+]
+const UnitOptions: FC<{ units: BaseUnit[] }> = ({ units }) => {
+  const { searchBind, isAsc, toggleSortOrder, sortConfig, handleSortConfigIndexUpdate, searchResults } =
+    useSearch<BaseUnit>({
+      list: units,
+      keys: ['points', 'title'],
+      sortOptions: unitSortConfig,
+    })
+  return (
+    <>
+      <SearchAndFilter<BaseUnit>
+        searchBind={searchBind}
+        isAsc={isAsc}
+        toggleSortOrder={toggleSortOrder}
+        sortConfig={sortConfig}
+        handleSortNameUpdate={handleSortConfigIndexUpdate}
+        LeftDisplay={
+          <Typography>
+            {searchResults.length} Unit{searchResults.length === 1 ? '' : 's'}
+          </Typography>
+        }
+      />
+      {searchResults.map(unit => (
+        <ListOption key={unit.title + unit.subtitle || ''} {...unit} />
+      ))}
+    </>
+  )
+}
