@@ -73,6 +73,7 @@ export interface ListUpgrade extends Upgrade {
 export interface ListUnitActiveUpgrade {
   id: string
   upgrade: UpgradeType
+  slotIndex: number
 }
 
 export interface Unit extends BaseUnit {

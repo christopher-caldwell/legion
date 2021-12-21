@@ -2,12 +2,13 @@ import { FC } from 'react'
 import { GetStaticProps, GetStaticPaths } from 'next'
 import { Layout } from '@caldwell619/component-toolkit'
 
+import { capitalize, humanizeWord } from 'utils'
 import { Options } from 'features/list-builder'
 import { ListManager } from 'features/list-manager'
 
 const FactionBuilder: FC<Props> = ({ faction }) => {
   return (
-    <Layout seo={{ title: faction }}>
+    <Layout seo={{ title: `${capitalize(humanizeWord(faction))} Builder` }}>
       <Options />
       <ListManager />
     </Layout>

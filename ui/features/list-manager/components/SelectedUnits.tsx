@@ -11,13 +11,14 @@ export const SelectedUnits: FC = () => {
   const { searchBind, isAsc, toggleSortOrder, sortConfig, handleSortConfigIndexUpdate, searchResults } = useSearch({
     list,
     keys: ['points', 'title', 'unitType'],
+    keyForPersistence: 'selected-units',
   })
 
   if (!list.length) {
     return <ViewScreenCenterBox height='80%'>Such Empty</ViewScreenCenterBox>
   }
   return (
-    <Grid container spacing={0} sx={{ paddingBottom: '10vh' }} alignItems='center'>
+    <Grid container spacing={1} sx={{ paddingBottom: '10vh' }} alignItems='center'>
       <SearchAndFilter<ListUnit>
         searchBind={searchBind}
         isAsc={isAsc}
@@ -32,7 +33,7 @@ export const SelectedUnits: FC = () => {
       />
       {searchResults.map(listUnit => (
         <Fragment key={listUnit.id}>
-          <Grid item xs={12} sx={{ marginTop: ({ spacing }) => spacing(4) }} />
+          <Grid item xs={12} sx={{ marginTop: ({ spacing }) => spacing(3) }} />
           <SelectedUnit {...listUnit} key={listUnit.id} />
         </Fragment>
       ))}

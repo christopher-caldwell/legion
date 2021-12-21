@@ -52,6 +52,8 @@ interface Props {
   subtitle?: string
   points?: number
   CardImage: JSX.Element
+  // TODO: Make this into a modal
+  FullSizeCardImage?: JSX.Element
   canTakeAction?: boolean
   canTakeActionBasedOnPoints?: boolean
   onAction: () => void

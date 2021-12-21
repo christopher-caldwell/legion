@@ -1,7 +1,6 @@
 import { selector } from 'recoil'
 
-import { SelectorKeys } from 'store/keys'
-import { listAtom } from './atoms'
+import { SelectorKeys, listAtom, upgradesAtom } from 'store'
 import { UnitType } from './types'
 
 export const hasChosenCommanderSelector = selector<boolean>({
@@ -17,7 +16,15 @@ export const listPointsSelector = selector<number>({
   key: SelectorKeys.ListPoints,
   get: ({ get }) => {
     const list = get(listAtom)
-    const points = list.reduce<number>((total, { points }) => total + points, 0)
+    const upgrades = get(upgradesAtom)
+    const points = list.reduce<number>((total, { id, points }) => {
+      const targetUnitUpgrades = upgrades[id] || []
+      const targetUpgradePoints = targetUnitUpgrades.reduce(
+        (upgradeTotal, currentUpgrade) => upgradeTotal + currentUpgrade.points,
+        0
+      )
+      return total + points + targetUpgradePoints
+    }, 0)
     return points
   },
 })

@@ -25,7 +25,7 @@ export const UpgradeSelection: FC = () => {
           Adding {upgradeName} to {title}
         </Title>
       </Grid>
-      {eligibleUpgrades.map((upgrade, index) => {
+      {eligibleUpgrades.map(upgrade => {
         return (
           <CardOption
             key={upgrade.title}
@@ -34,7 +34,8 @@ export const UpgradeSelection: FC = () => {
             CardImage={<CardImage src={require(`assets/cards/upgrades/${upgrade.type}/${upgrade.imageSlug}.png`)} />}
             ActionIcon={<AddIcon />}
             onAction={() => {
-              addUpgrade(upgrade, index)
+              addUpgrade(upgrade)
+              // race condition?
               setActiveUpgrade(undefined)
             }}
           />

@@ -53,6 +53,7 @@ const UnitOptions: FC<{ units: BaseUnit[] }> = ({ units }) => {
       list: units,
       keys: ['points', 'title'],
       sortOptions: unitSortConfig,
+      keyForPersistence: 'unit-options',
     })
   return (
     <>

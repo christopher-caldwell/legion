@@ -31,12 +31,14 @@ export const SelectedUnit: FC<ListUnit> = ({ id, unitType, title, subtitle, poin
             key={slot + index}
             title={equippedUpgrade?.title || capitalize(humanizeWord(slot))}
             CardImage={<img style={{ width: '30px' }} src={require(`assets/upgrades/${slot}.png`)} />}
-            ActionIcon={equippedUpgrade ? <Delete /> : <RightArrow />}
+            ActionIcon={equippedUpgrade ? <Delete color='error' /> : <RightArrow />}
             onAction={() => {
-              equippedUpgrade ? removeUpgrade(slot) : setActiveUpgrade({ id, upgrade: slot })
+              equippedUpgrade
+                ? removeUpgrade(equippedUpgrade.id)
+                : setActiveUpgrade({ id, upgrade: slot, slotIndex: index })
             }}
             titleStyles={{
-              color: ({ palette }) => (equippedUpgrade ? palette.grey[700] : palette.text.primary),
+              color: ({ palette }) => (equippedUpgrade ? palette.text.primary : palette.grey[500]),
               fontSize: '0.95em',
             }}
           />

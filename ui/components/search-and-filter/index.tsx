@@ -62,13 +62,13 @@ const SearchField: FC<UseInputBind> = props => {
             <SearchIcon />
           </IconButton>
         ),
-        endAdornment: (
+        endAdornment: props.value ? (
           <InputAdornment position='end'>
             <IconButton aria-label='clear input' edge='end' onClick={resetInput}>
               <Close />
             </IconButton>
           </InputAdornment>
-        ),
+        ) : undefined,
       }}
     />
   )

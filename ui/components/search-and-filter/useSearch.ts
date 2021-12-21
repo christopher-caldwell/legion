@@ -17,7 +17,7 @@ export const useSearch = function <TData>({
   const [searchTerm, searchBind] = useInput('')
   const ListSearch = new Fuse(list, { keys, includeScore: true })
 
-  const { sortConfigIndex, isAsc } = sortChoiceMap[keyForPersistence] || { sortConfigIndex: 0, isAsc: true }
+  const { sortConfigIndex, isAsc } = sortChoiceMap[keyForPersistence] || { sortConfigIndex: 0, isAsc: false }
   const sortConfig = sortOptions[sortConfigIndex]
   const searchResults = handleFilterAndSort({
     baseList: list,
@@ -29,7 +29,8 @@ export const useSearch = function <TData>({
 
   const handleSortConfigIndexUpdate = () => {
     setSortChoiceMap(currentSortChoiceMap => {
-      const newIndex = currentSortChoiceMap[keyForPersistence]?.sortConfigIndex + 1 === sortOptions.length ? 0 : 1
+      const sortIndex = currentSortChoiceMap[keyForPersistence]?.sortConfigIndex
+      const newIndex = sortIndex + 1 === sortOptions.length ? 0 : sortIndex + 1
       return {
         ...currentSortChoiceMap,
         [keyForPersistence]: {
