@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { useInput } from '@caldwell619/react-hooks'
 import Fuse from 'fuse.js'
 import { useRecoilState } from 'recoil'
@@ -17,8 +16,11 @@ export const useSearch = function <TData>({
   const [searchTerm, searchBind] = useInput('')
   const ListSearch = new Fuse(list, { keys, includeScore: true })
 
-  const { sortConfigIndex, isAsc } = sortChoiceMap[keyForPersistence] || { sortConfigIndex: 0, isAsc: false }
+  const { sortConfigIndex = 0, isAsc = false } = sortChoiceMap[keyForPersistence] || {}
   const sortConfig = sortOptions[sortConfigIndex]
+  console.log('sortConfigIndex', sortConfigIndex)
+  console.log('sortOptions', sortOptions)
+  console.log('sortConfig', sortConfig)
   const searchResults = handleFilterAndSort({
     baseList: list,
     sortDirection: isAsc ? SortDirection.Asc : SortDirection.Desc,
@@ -29,7 +31,7 @@ export const useSearch = function <TData>({
 
   const handleSortConfigIndexUpdate = () => {
     setSortChoiceMap(currentSortChoiceMap => {
-      const sortIndex = currentSortChoiceMap[keyForPersistence]?.sortConfigIndex
+      const sortIndex = currentSortChoiceMap[keyForPersistence]?.sortConfigIndex || 0
       const newIndex = sortIndex + 1 === sortOptions.length ? 0 : sortIndex + 1
       return {
         ...currentSortChoiceMap,
@@ -43,7 +45,7 @@ export const useSearch = function <TData>({
 
   const toggleSortOrder = () => {
     setSortChoiceMap(currentSortChoiceMap => {
-      const isCurrentlyAsc = currentSortChoiceMap[keyForPersistence]?.isAsc
+      const isCurrentlyAsc = currentSortChoiceMap[keyForPersistence]?.isAsc || false
       return {
         ...currentSortChoiceMap,
         [keyForPersistence]: {
