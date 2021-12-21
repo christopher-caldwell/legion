@@ -18,9 +18,6 @@ export const useSearch = function <TData>({
 
   const { sortConfigIndex = 0, isAsc = false } = sortChoiceMap[keyForPersistence] || {}
   const sortConfig = sortOptions[sortConfigIndex]
-  console.log('sortConfigIndex', sortConfigIndex)
-  console.log('sortOptions', sortOptions)
-  console.log('sortConfig', sortConfig)
   const searchResults = handleFilterAndSort({
     baseList: list,
     sortDirection: isAsc ? SortDirection.Asc : SortDirection.Desc,
