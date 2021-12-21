@@ -6,7 +6,8 @@ import BackIcon from '@mui/icons-material/ChevronLeft'
 import { listPointsLimit } from 'constants/list'
 import { listAtom, listNameAtom, listPointsSelector, listUnitActiveUpgradesAtom } from 'store'
 import { FullScreenDialog } from 'components'
-import { SelectedUnits, UpgradeSelection } from './components'
+import { UpgradeSelection } from 'features/upgrades'
+import { SelectedUnits } from './components'
 
 export const ListManager: FC = () => {
   const listName = useRecoilValue(listNameAtom)

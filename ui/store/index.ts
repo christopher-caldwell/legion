@@ -1,3 +1,5 @@
 export * from './keys'
 export * from './list'
 export * from './expansions'
+export * from './upgrades'
+export * from './sort'

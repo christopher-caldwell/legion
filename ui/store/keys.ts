@@ -2,6 +2,8 @@ export enum AtomKeys {
   List = 'list',
   ListName = 'list-name',
   ListUnitActiveUpgrade = 'list-unit-active-upgrade',
+  Upgrades = 'upgrades',
+  SortConfigMap = 'sort-config-map',
 }
 
 export enum SelectorKeys {

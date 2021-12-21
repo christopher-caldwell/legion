@@ -1,4 +1,4 @@
-import { FC } from 'react'
+import { FC, Fragment } from 'react'
 import { Grid } from '@mui/material'
 
 import { ListUnit } from 'store'
@@ -31,10 +31,10 @@ export const SelectedUnits: FC = () => {
         }
       />
       {searchResults.map(listUnit => (
-        <>
+        <Fragment key={listUnit.id}>
           <Grid item xs={12} sx={{ marginTop: ({ spacing }) => spacing(4) }} />
           <SelectedUnit {...listUnit} key={listUnit.id} />
-        </>
+        </Fragment>
       ))}
     </Grid>
   )

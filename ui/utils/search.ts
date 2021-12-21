@@ -38,7 +38,6 @@ export const handleFilterAndSort = <TData>({
 }: HandleFilterAndSortArgs<TData>) => {
   let results = baseList
   if (searchTerm) results = handleSearchResults(FuseSearch, searchTerm, baseList)
-  console.log('results', results)
   if (sortKey) {
     results = arraySort([...results], sortKey as string, { reverse: sortDirection === SortDirection.Desc })
   }

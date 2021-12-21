@@ -127,6 +127,11 @@
   resolved "https://registry.yarnpkg.com/@caldwell619/react-hooks/-/react-hooks-0.0.7.tgz#e3881d00cc3a88dff8488b41b47798d09b8433ba"
   integrity sha512-hj+/Lfrmv/zXEy0paCCOVxHM1zprkT30TX0OXLVxbTCMx3FBM3D15PpYl0QFDjN+OLfHuVYlHDY02TT9eE+xdg==
 
+"@caldwell619/react-hooks@^0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@caldwell619/react-hooks/-/react-hooks-0.0.9.tgz#734b18d6b75f7850c2a094f07530edae55a2b75d"
+  integrity sha512-0dQH14g/loHqTByRjJY9raieHlca70F3WxiiuM9MG1fQbZGyYvF4Vfndl2nSaDlbhRg2+ns+VQABhoHiqkwkqA==
+
 "@emotion/babel-plugin@^11.3.0":
   version "11.7.1"
   resolved "https://registry.yarnpkg.com/@emotion/babel-plugin/-/babel-plugin-11.7.1.tgz#853fc4985d89dab0ea8e17af2858473d1b11be7e"

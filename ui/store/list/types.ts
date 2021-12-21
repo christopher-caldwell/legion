@@ -65,6 +65,11 @@ export interface Upgrade {
   imageSlug: string
 }
 
+export interface ListUpgrade extends Upgrade {
+  id: string
+  slotIndex: number
+}
+
 export interface ListUnitActiveUpgrade {
   id: string
   upgrade: UpgradeType

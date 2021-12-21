@@ -1,20 +1,23 @@
 import { useState } from 'react'
 import { useInput } from '@caldwell619/react-hooks'
 import Fuse from 'fuse.js'
+import { useRecoilState } from 'recoil'
 
 import { handleFilterAndSort, SortDirection } from 'utils'
-import { ListUnit } from 'store'
+import { ListUnit, sortChoiceMapAtom } from 'store'
 
 export const useSearch = function <TData>({
   list,
   keys,
   sortOptions = defaultSortOptions as unknown as SortOption<TData>[],
+  keyForPersistence,
 }: UseSearchArgs<TData>) {
-  const [sortConfigIndex, setSortConfigIndex] = useState(0)
-  const [isAsc, setIsAsc] = useState(true)
+  const [sortChoiceMap, setSortChoiceMap] = useRecoilState(sortChoiceMapAtom)
+
   const [searchTerm, searchBind] = useInput('')
   const ListSearch = new Fuse(list, { keys, includeScore: true })
 
+  const { sortConfigIndex, isAsc } = sortChoiceMap[keyForPersistence] || { sortConfigIndex: 0, isAsc: true }
   const sortConfig = sortOptions[sortConfigIndex]
   const searchResults = handleFilterAndSort({
     baseList: list,
@@ -25,21 +28,34 @@ export const useSearch = function <TData>({
   })
 
   const handleSortConfigIndexUpdate = () => {
-    setSortConfigIndex(currentSortConfigIndex => {
-      if (currentSortConfigIndex + 1 === sortOptions.length) return 0
-      return currentSortConfigIndex + 1
+    setSortChoiceMap(currentSortChoiceMap => {
+      const newIndex = currentSortChoiceMap[keyForPersistence]?.sortConfigIndex + 1 === sortOptions.length ? 0 : 1
+      return {
+        ...currentSortChoiceMap,
+        [keyForPersistence]: {
+          ...(currentSortChoiceMap[keyForPersistence] || {}),
+          sortConfigIndex: newIndex,
+        },
+      }
     })
   }
 
   const toggleSortOrder = () => {
-    setIsAsc(isCurrentlyAsc => !isCurrentlyAsc)
+    setSortChoiceMap(currentSortChoiceMap => {
+      const isCurrentlyAsc = currentSortChoiceMap[keyForPersistence]?.isAsc
+      return {
+        ...currentSortChoiceMap,
+        [keyForPersistence]: {
+          ...(currentSortChoiceMap[keyForPersistence] || {}),
+          isAsc: !isCurrentlyAsc,
+        },
+      }
+    })
   }
 
   return {
     sortConfig,
-    setSortConfigIndex,
     isAsc,
-    setIsAsc,
     searchTerm,
     searchBind,
     toggleSortOrder,
@@ -53,6 +69,7 @@ interface UseSearchArgs<TData> {
   /** Keys to be passed to the Fuse search */
   keys: string[]
   sortOptions?: SortOption<TData>[]
+  keyForPersistence: string
 }
 
 export interface SortOption<TData> {
