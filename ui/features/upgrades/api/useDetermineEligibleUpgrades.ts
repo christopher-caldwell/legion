@@ -1,16 +1,18 @@
 import { useRecoilValue } from 'recoil'
 import { slugger } from '@caldwell619/github-slugger'
 
-import { Upgrade, ListUnitActiveUpgrade, listAtom } from 'store'
+import { uniqueUpgradesSelector, Upgrade, ListUnitActiveUpgrade, listAtom } from 'store'
 import { allUpgrades } from 'constants/upgrades'
 
 export const useDetermineEligibleUpgrades = ({ id, upgrade }: ListUnitActiveUpgrade) => {
   const list = useRecoilValue(listAtom)
+  const uniqueUpgrades = useRecoilValue(uniqueUpgradesSelector)
   const targetedUnit = list.find(({ id: unitId }) => unitId === id)
   if (!targetedUnit) throw new Error('[useDetermineEligibleUpgrades]: Cannot find target unit')
   const eligibleUpgrades: Upgrade[] = []
   for (const availableUpgrade of allUpgrades) {
     const restriction = availableUpgrade.restriction || {}
+    if (uniqueUpgrades[availableUpgrade.title]) continue
     if (availableUpgrade.type !== upgrade) continue
 
     if (restriction.alignment && restriction.alignment !== targetedUnit.alignment) continue
@@ -21,7 +23,6 @@ export const useDetermineEligibleUpgrades = ({ id, upgrade }: ListUnitActiveUpgr
     if (restriction.isOnlyForNonEmplacement && restriction.isOnlyForNonEmplacement !== targetedUnit.isEmplacement)
       continue
     if (restriction.isOnlyForDroids && restriction.isOnlyForDroids !== targetedUnit.isDroid) continue
-    // TODO: Unique
 
     eligibleUpgrades.push(availableUpgrade)
   }

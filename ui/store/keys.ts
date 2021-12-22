@@ -9,6 +9,7 @@ export enum AtomKeys {
 export enum SelectorKeys {
   HasChosenCommander = 'has-chosen-commander',
   ListPoints = 'list-points',
+  UniqueUpgrades = 'unique-upgrades',
 }
 
 export const ensureKeysAreUnique = <KeyType>(keys: KeyType): boolean => {
