@@ -1,0 +1,92 @@
+service: graphql-group-gifts
+
+frameworkVersion: '>=2.0.0'
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  stage: ${env:STAGE}
+  stackName: ${env:STACK_NAME}
+  lambdaHashingVersion: '20201221'
+  deploymentBucket:
+    name: ${env:S3_BUCKET}
+  timeout: 30
+  logRetentionInDays: 14
+  environment:
+    STAGE: ${env:STAGE}
+  tracing:
+    apiGateway: false
+    lambda: true
+  # vpc:
+  #   securityGroupIds:
+  #     - ${cf:parameter-seed-${env:STAGE_OF_PARAMETER_SEED}.CommonSecurityGroupId}
+  #   subnetIds: !Split [',', '${cf:parameter-seed-${env:STAGE_OF_PARAMETER_SEED}.DbSubnets}']
+
+plugins:
+  - serverless-webpack
+  - serverless-offline
+
+custom:
+  # dbCreds: ${ssm:/aws/reference/secretsmanager/secrets-${env:STAGE_OF_DB}~true}
+  serverless-offline:
+    useChildProcesses: true
+  webpack:
+    webpackConfig: 'webpack/webpack.${env:WEBPACK_CONFIG}.ts'
+    packager: 'yarn'
+    keepOutputDirectory: true
+    stats: minimal
+
+functions:
+  GraphQl:
+    memorySize: 1024
+    handler: lambdas/graphql-api/index.handler
+    name: GroupGiftsGraphQL-${env:STAGE}
+    description: GraphQL API for Group Gifts
+    role: GraphQL
+    environment:
+      # PGPASSWORD: ${self:custom.dbCreds.db_encrypt_ml_password}
+      # PGUSER: ${self:custom.dbCreds.db_encrypt_ml_user}
+      # PGHOST: ${self:custom.dbCreds.db_encrypt_host}
+      # PGDATABASE: ${self:custom.dbCreds.db_encrypt_database}
+      # PGPORT: ${self:custom.dbCreds.db_encrypt_port}
+      PGPASSWORD: ${env:PGPASSWORD}
+      PGUSER: ${env:PGUSER}
+      PGHOST: ${env:PGHOST}
+      PGDATABASE: ${env:PGDATABASE}
+      PGPORT: ${env:PGPORT}
+    events:
+      - http:
+          path: /graphql
+          method: post
+          cors: true
+          
+resources:
+  Resources:
+    # IAM
+    GraphQL:
+      Type: AWS::IAM::Role
+      Properties:
+        RoleName: group-gifts-graphql-api-${env:STAGE}
+        AssumeRolePolicyDocument:
+          Statement:
+            - Effect: Allow
+              Principal:
+                Service:
+                  - lambda.amazonaws.com
+              Action: 'sts:AssumeRole'
+        ManagedPolicyArns:
+          - 'arn:aws:iam::aws:policy/service-role/AWSLambdaVPCAccessExecutionRole'
+        Policies:
+          - PolicyName: Logging
+            PolicyDocument:
+              Version: '2012-10-17'
+              Statement:
+                - Action:
+                    - xray:PutTraceSegments
+                  Effect: Allow
+                  Resource: '*'
+                - Action:
+                    - logs:CreateLogStream
+                    - logs:PutLogEvents
+                  Effect: Allow
+                  Resource: '*'

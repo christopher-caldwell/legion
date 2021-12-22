@@ -1,6 +1,6 @@
 import * as React from 'react'
 import Document, { Html, Head, Main, NextScript } from 'next/document'
-import { getInitialProps } from '@caldwell619/component-toolkit'
+import { getInitialProps } from '@caldwell619/component-toolkit/dist/next-helpers'
 
 export default class MyDocument extends Document {
   render() {

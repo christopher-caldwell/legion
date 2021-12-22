@@ -1,0 +1,13 @@
+overwrite: true
+schema: 
+  - http://localhost:5000/local/graphql:
+      headers:
+        Authorization: 'schema'
+generates:
+  generated/index.ts:
+    plugins:
+      - typescript
+      - typescript-operations
+    # config:
+      # wrapEntireFieldDefinitions: true
+      # entireFieldWrapperValue: T | (() => T | Promise<T>)
