@@ -51,9 +51,16 @@ export interface UpgradeRestriction {
   vehicleType?: VehicleType
   /** Slugged name of vehicle unit this upgrade can be applied to */
   vehicle?: string
-  /** Slugged name of unit this upgrade can be applied to */
-  unit?: string
+  /** Slugged name(s) of unit this upgrade can be applied to */
+  unit?: string[]
 }
+
+/** Some cards influence the unit they are being added to.
+ * TODO: slot? Yikes..
+ */
+// interface PointsModifier {
+//   modification: number
+// }
 
 export interface Upgrade {
   type: UpgradeType
@@ -63,6 +70,14 @@ export interface Upgrade {
   /** Slugged name of the expansion pack(s) this card comes in */
   availableThrough?: string[]
   imageSlug: string
+  /** Some cards influence the unit they are attached to.
+   * If unit is present, this means this modification only applies to the unit provided
+   */
+  pointsModifiers?: {
+    unit?: string
+    points: number
+  }
+  isUnique?: true
 }
 
 export interface ListUpgrade extends Upgrade {

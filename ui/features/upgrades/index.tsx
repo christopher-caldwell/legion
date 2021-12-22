@@ -10,7 +10,8 @@ import { useDetermineEligibleUpgrades, useUpgrades } from './api'
 
 export const UpgradeSelection: FC = () => {
   const [activeUpgrade, setActiveUpgrade] = useRecoilState(listUnitActiveUpgradesAtom)
-  if (!activeUpgrade) throw new Error('Nope')
+  if (!activeUpgrade)
+    throw new Error('[UpgradeSelection]: Trying to access upgrade selection without an active upgrade')
   const { addUpgrade } = useUpgrades(activeUpgrade.id)
   const {
     eligibleUpgrades,

@@ -1,3 +1,4 @@
+// TODO: Change Enum to expansion ID SWL001
 export enum Expansions {
   DeathTroopers = 'Imperial Death Troopers Unit Expansion',
   Iden = 'Iden Versio and ID10 Commander Expansion',
@@ -42,6 +43,23 @@ export enum Expansions {
   Yoda = 'Grand Master Yoda Commander Expansion',
   Vader = 'Darth Vader Operative Expansion',
   LukeSkywalker = 'Luke Skywalker Operative Expansion',
+  ClanWren = 'Clan Wren Unit Expansion',
+  ArcTroopers = 'ARC Troopers Unit Expansion',
+  InfernoSquad = 'Inferno Squad Unit Expansion',
+  Sabine = 'Sabine Wren Operative Expansion',
+  RebelTroopers = 'Rebel Troopers Upgrade Expansion',
+  Phase1Clones = 'Phase I Clone Troopers Upgrade Expansion',
+  Phase2Clones = 'Phase II Clone Troopers Unit Expansion',
+  Chewbacca = 'Chewbacca Operative Expansion',
+  FleetTroopers = 'Fleet Troopers Unit Expansion',
+  Wookiee = 'Wookiee Warriors Unit Expansion',
+  Cassian = 'Cassian Andor and K-2SO Commander Expansion',
+  DroidCommandos = 'BX-series Droid Commandos Unit Expansion',
+  Landspeeder = 'X-34 Landspeeder Unit Expansion',
+  SaberTank = 'TX-130 Saber-class Fighter Tank Unit Expansion',
+  RebelVeterans = 'Rebel Veterans Unit Expansion',
+  SpeederTruck = 'A-A5 Speeder Truck Unit Expansion',
+  AAT = 'AAT Trade Federation Battle Tank Unit Expansion',
   // Need real names
   Shoretrooper = 'Shoretrooper',
   Snowtrooper = 'Snowtrooper',

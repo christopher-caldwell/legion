@@ -16,11 +16,12 @@ export const useDetermineEligibleUpgrades = ({ id, upgrade }: ListUnitActiveUpgr
     if (restriction.alignment && restriction.alignment !== targetedUnit.alignment) continue
     if (restriction.faction && restriction.faction !== targetedUnit.faction) continue
     if (restriction.isOnlyForVehicles && restriction.vehicleType !== targetedUnit.vehicleType) continue
-    if (restriction.unit && restriction.unit !== slugger(targetedUnit.title)) continue
+    if (restriction.unit && !restriction.unit.includes(slugger(targetedUnit.title))) continue
     if (restriction.vehicle && restriction.vehicle !== slugger(targetedUnit.title)) continue
     if (restriction.isOnlyForNonEmplacement && restriction.isOnlyForNonEmplacement !== targetedUnit.isEmplacement)
       continue
     if (restriction.isOnlyForDroids && restriction.isOnlyForDroids !== targetedUnit.isDroid) continue
+    // TODO: Unique
 
     eligibleUpgrades.push(availableUpgrade)
   }

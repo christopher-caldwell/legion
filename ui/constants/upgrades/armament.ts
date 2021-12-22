@@ -4,11 +4,11 @@ import { Upgrade, UpgradeType, Expansions } from 'store'
 
 export const armamentUpgrades: Upgrade[] = [
   {
-    title: 'E-11D Grenade Launcher/Focused Fire Config',
+    title: 'E-11D Grenade Launcher Config',
     type: UpgradeType.Armament,
     points: 8,
     restriction: {
-      unit: slugger('Death Troopers'),
+      unit: [slugger('Death Troopers')],
     },
     availableThrough: [slugger(Expansions.DeathTroopers)],
     get imageSlug() {
@@ -20,7 +20,7 @@ export const armamentUpgrades: Upgrade[] = [
     type: UpgradeType.Armament,
     points: 15,
     restriction: {
-      unit: slugger('Iden Versio'),
+      unit: [slugger('Iden Versio')],
     },
     availableThrough: [slugger(Expansions.Iden)],
     get imageSlug() {
@@ -32,7 +32,7 @@ export const armamentUpgrades: Upgrade[] = [
     type: UpgradeType.Armament,
     points: 15,
     restriction: {
-      unit: slugger('Iden Versio'),
+      unit: [slugger('Iden Versio')],
     },
     availableThrough: [slugger(Expansions.Iden)],
     get imageSlug() {
@@ -44,7 +44,7 @@ export const armamentUpgrades: Upgrade[] = [
     type: UpgradeType.Armament,
     points: 10,
     restriction: {
-      unit: slugger('Dewback Rider'),
+      unit: [slugger('Dewback Rider')],
     },
     availableThrough: [slugger(Expansions.Dewback)],
     get imageSlug() {
@@ -56,7 +56,7 @@ export const armamentUpgrades: Upgrade[] = [
     type: UpgradeType.Armament,
     points: 15,
     restriction: {
-      unit: slugger('Dewback Rider'),
+      unit: [slugger('Dewback Rider')],
     },
     availableThrough: [slugger(Expansions.Dewback)],
     get imageSlug() {

@@ -6,11 +6,12 @@ import { listUnitActiveUpgradesAtom, ListUpgrade, Upgrade, upgradesAtom } from '
 export const useUpgrades = (id: string) => {
   const [upgrades, setUpgrades] = useRecoilState(upgradesAtom)
   const activeUpgrade = useRecoilValue(listUnitActiveUpgradesAtom)
-  console.log('upgrades', upgrades)
+
   const addUpgrade = (upgrade: Upgrade) => {
     if (activeUpgrade?.slotIndex === undefined) {
       throw new Error('[useUpgrades]: Trying to add an upgrade without an active upgrade slot')
     }
+    //TODO: Unique
     setUpgrades(currentUpgrades => ({
       ...currentUpgrades,
       [id]: [...(currentUpgrades[id] || []), { id: uuid(), slotIndex: activeUpgrade?.slotIndex, ...upgrade }],
@@ -18,6 +19,7 @@ export const useUpgrades = (id: string) => {
   }
 
   const removeUpgrade = (upgradeId: string) => {
+    //TODO: Unique
     setUpgrades(currentUpgrades => {
       const mutableCurrentUpgrades = { ...currentUpgrades }
       const thisUnitsMutableUpgrades = [...mutableCurrentUpgrades[id]]
