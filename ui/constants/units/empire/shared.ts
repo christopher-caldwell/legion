@@ -15,4 +15,6 @@ export interface BaseUnit {
   vehicleType?: VehicleType
   isDroid?: boolean
   isEmplacement?: boolean
+  isForceUser?: boolean
+  counterpart?: BaseUnit
 }

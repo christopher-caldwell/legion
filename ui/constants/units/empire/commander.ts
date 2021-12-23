@@ -14,6 +14,7 @@ export const commandersUnits: BaseUnit[] = [
     alignment: Alignment.Dark,
     upgradeSlots: [UpgradeType.Force, UpgradeType.Force, UpgradeType.Force, UpgradeType.Command],
     faction: Faction.Empire,
+    isForceUser: true,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -41,6 +42,7 @@ export const commandersUnits: BaseUnit[] = [
     alignment: Alignment.Dark,
     upgradeSlots: [UpgradeType.Force, UpgradeType.Force, UpgradeType.Force, UpgradeType.Command],
     faction: Faction.Empire,
+    isForceUser: true,
     get imageSlug() {
       return slugger(this.title)
     },
@@ -77,17 +79,24 @@ export const commandersUnits: BaseUnit[] = [
     points: 100,
     isUnique: true,
     unitType: UnitType.Commander,
-    upgradeSlots: [
-      UpgradeType.Training,
-      UpgradeType.Training,
-      UpgradeType.Gear,
-      UpgradeType.Armament,
-      UpgradeType.Counterpart,
-    ],
+    upgradeSlots: [UpgradeType.Training, UpgradeType.Training, UpgradeType.Gear, UpgradeType.Armament],
     availableThrough: [slugger(Expansions.Iden)],
     faction: Faction.Empire,
     get imageSlug() {
       return slugger(this.title)
+    },
+    counterpart: {
+      title: "Iden's ID10 Seeker Droid",
+      subtitle: 'Droid',
+      points: 15,
+      isUnique: true,
+      unitType: UnitType.Counterpart,
+      upgradeSlots: [],
+      availableThrough: [slugger(Expansions.Iden)],
+      faction: Faction.Empire,
+      get imageSlug() {
+        return slugger(this.title)
+      },
     },
   },
   {

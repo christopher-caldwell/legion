@@ -2,6 +2,7 @@ import { BaseUnit } from 'constants/units/empire/shared'
 
 export enum UnitType {
   Commander = 'commander',
+  Counterpart = 'counterpart',
   Operative = 'operative',
   Corps = 'corps',
   SpecialForces = 'special-forces',
@@ -14,7 +15,6 @@ export enum UpgradeType {
   Command = 'command',
   Comms = 'comms',
   Crew = 'crew',
-  Counterpart = 'counterpart',
   Force = 'force',
   Gear = 'gear',
   Generator = 'generator',
@@ -48,11 +48,11 @@ export interface UpgradeRestriction {
   isOnlyForVehicles?: boolean
   isOnlyForNonEmplacement?: boolean
   isOnlyForDroids?: boolean
+  isOnlyForForceUsers?: boolean
   vehicleType?: VehicleType
-  /** Slugged name of vehicle unit this upgrade can be applied to */
-  vehicle?: string
   /** Slugged name(s) of unit this upgrade can be applied to */
   unit?: string[]
+  unitType?: UnitType[]
 }
 
 /** Some cards influence the unit they are being added to.

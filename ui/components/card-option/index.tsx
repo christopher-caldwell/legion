@@ -1,11 +1,12 @@
 import { FC } from 'react'
-import { Theme, SxProps, Typography, IconButton, Grid, styled } from '@mui/material'
+import { GridProps, Theme, SxProps, Typography, IconButton, Grid, styled } from '@mui/material'
 
 export const CardOption: FC<Props> = ({
   title,
   subtitle,
   points,
   CardImage,
+  imageGridProps,
   canTakeAction = true,
   canTakeActionBasedOnPoints = true,
   onAction,
@@ -14,7 +15,7 @@ export const CardOption: FC<Props> = ({
 }) => {
   return (
     <Grid container item xs={12}>
-      <Grid item xs={2} container alignItems='center'>
+      <Grid {...imageGridProps} item xs={2} container alignItems='center'>
         {CardImage}
       </Grid>
       <Grid item xs={8} alignItems='center' container justifyContent='space-between'>
@@ -59,6 +60,7 @@ interface Props {
   onAction: () => void
   ActionIcon: JSX.Element
   titleStyles?: SxProps<Theme>
+  imageGridProps?: GridProps
 }
 
 export const Points = styled(Typography, {

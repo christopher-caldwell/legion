@@ -183,4 +183,186 @@ export const personnelUpgrades: Upgrade[] = [
       return slugger(this.title)
     },
   },
+  {
+    title: 'R4 Astromech Droid',
+    type: UpgradeType.Personnel,
+    points: 9,
+    availableThrough: [slugger(Expansions.ImperialSpecialist)],
+    restriction: {
+      faction: Faction.Empire,
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'R5 Astromech Droid',
+    type: UpgradeType.Personnel,
+    points: 8,
+    availableThrough: [slugger(Expansions.RebelSpecialist)],
+    restriction: {
+      faction: Faction.Rebel,
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Rebel Comms Technician',
+    type: UpgradeType.Personnel,
+    points: 9,
+    availableThrough: [slugger(Expansions.RebelSpecialist)],
+    restriction: {
+      faction: Faction.Rebel,
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Rebel Officer',
+    type: UpgradeType.Personnel,
+    points: 19,
+    availableThrough: [slugger(Expansions.RebelSpecialist)],
+    restriction: {
+      faction: Faction.Rebel,
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Rebel Trooper',
+    type: UpgradeType.Personnel,
+    points: 10,
+    availableThrough: [slugger(Expansions.RebelTroopers), slugger(Expansions.CoreSet)],
+    restriction: {
+      unit: [slugger('Rebel Troopers')],
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Rebel Trooper Captain',
+    type: UpgradeType.Personnel,
+    points: 14,
+    availableThrough: [slugger(Expansions.RebelTroopers)],
+    restriction: {
+      unit: [slugger('Rebel Troopers')],
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Rebel Trooper Specialist',
+    type: UpgradeType.Personnel,
+    points: 14,
+    availableThrough: [slugger(Expansions.RebelTroopers)],
+    restriction: {
+      unit: [slugger('Rebel Troopers')],
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Rebel Veteran',
+    type: UpgradeType.Personnel,
+    points: 12,
+    availableThrough: [slugger(Expansions.RebelVeterans)],
+    restriction: {
+      unit: [slugger('Rebel Veterans')],
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Shoretrooper',
+    type: UpgradeType.Personnel,
+    points: 13,
+    availableThrough: [slugger(Expansions.Shoretrooper)],
+    restriction: {
+      unit: [slugger('Shoretroopers')],
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Snowtrooper',
+    type: UpgradeType.Personnel,
+    points: 12,
+    availableThrough: [slugger(Expansions.Snowtrooper)],
+    restriction: {
+      unit: [slugger('Snowtroopers')],
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Stormtrooper',
+    type: UpgradeType.Personnel,
+    points: 11,
+    availableThrough: [slugger(Expansions.Stormtrooper), slugger(Expansions.CoreSet)],
+    restriction: {
+      unit: [slugger('Stormtrooper')],
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Stormtrooper Captain',
+    type: UpgradeType.Personnel,
+    points: 15,
+    availableThrough: [slugger(Expansions.Stormtrooper)],
+    restriction: {
+      unit: [slugger('Stormtrooper')],
+    },
+    //TODO: Slot modifier, gain training slot
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Stormtrooper Specialist',
+    type: UpgradeType.Personnel,
+    points: 15,
+    availableThrough: [slugger(Expansions.Stormtrooper)],
+    restriction: {
+      unit: [slugger('Stormtrooper')],
+    },
+    //TODO: Slot modifier, gain training slot
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'T-Series Tactical Droid',
+    type: UpgradeType.Personnel,
+    points: 18,
+    availableThrough: [slugger(Expansions.SeparatistSpecialists)],
+    restriction: {
+      isOnlyForDroids: true,
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
+  {
+    title: 'Viper Recon Droid',
+    type: UpgradeType.Personnel,
+    points: 8,
+    availableThrough: [slugger(Expansions.SeparatistSpecialists)],
+    restriction: {
+      isOnlyForDroids: true,
+    },
+    get imageSlug() {
+      return slugger(this.title)
+    },
+  },
 ]

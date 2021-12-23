@@ -10,7 +10,7 @@ export const DisplayCard: FC<Props> = ({ setIsOpen, isOpen, unitType, imageSlug,
     <Dialog onClose={handleClose} open={isOpen}>
       <DialogTitle>{title}</DialogTitle>
       <DialogContent>
-        <img src={require(`assets/cards/empire/${unitType}/${imageSlug}.webp`)} />
+        <img src={require(`assets/cards/empire/${unitType}/${imageSlug}.jpeg`)} />
       </DialogContent>
     </Dialog>
   )

@@ -18,7 +18,7 @@ export const FullScreenDialog: FC<Props> = ({ isOpen, setIsOpen, LeftAction, chi
           </IconButton>
         </Toolbar>
       </AppBar>
-      <DialogContent>{children}</DialogContent>
+      <DialogContent sx={{ padding: '20px 15px' }}>{children}</DialogContent>
     </Dialog>
   )
 }

@@ -1,5 +1,6 @@
 import { AppProps } from 'next/app'
 import Head from 'next/head'
+import { ThemeOptions } from '@mui/material'
 import { ToolkitProvider, WhichThemeProvider, ThemeProvider, Footer, HeaderProps } from '@caldwell619/component-toolkit'
 import { RecoilRoot } from 'recoil'
 
@@ -17,7 +18,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       </Head>
       <WhichThemeProvider>
         {/* TODO: Build coloring and passing a custom theme */}
-        <ThemeProvider>
+        <ThemeProvider options={themeOptions}>
           <RecoilRoot>
             <Component {...pageProps} />
             <Footer links={[]} />
@@ -38,5 +39,17 @@ const headerConfig: HeaderProps = {
   },
   drawerConfig: {
     DrawerContent: <div>Hello</div>,
+  },
+}
+
+const themeOptions: ThemeOptions = {
+  components: {
+    MuiDialogContent: {
+      styleOverrides: {
+        root: {
+          padding: '10px',
+        },
+      },
+    },
   },
 }

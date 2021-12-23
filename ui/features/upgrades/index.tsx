@@ -51,10 +51,10 @@ const Title = styled('h1')`
   font-size: 1.1em;
 `
 
-const CardImage = styled('img')`
+export const CardImage = styled('img')<{ height?: string }>`
   border-radius: 50%;
-  height: 40px;
-  width: 40px;
+  height: ${({ height = '50px' }) => height};
+  width: ${({ height = '50px' }) => height};
   object-fit: cover;
   object-position: top;
 `

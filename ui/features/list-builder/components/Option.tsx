@@ -3,6 +3,7 @@ import AddIcon from '@mui/icons-material/Add'
 
 import { CardOption } from 'components'
 import { useListBuilder } from 'features/list-builder/api'
+import { CardImage } from 'features/upgrades'
 import { listPointsLimit } from 'constants/list'
 import { BaseUnit } from 'constants/units/empire'
 import { UnitType } from 'store'
@@ -19,7 +20,7 @@ export const ListOption: FC<BaseUnit> = props => {
       onAction={addThisUnit}
       canTakeActionBasedOnPoints={canAddUnitBasedOnPoints}
       canTakeAction={canAddUnit}
-      CardImage={<img src={require(`assets/units/empire/${unitType}/${imageSlug}.webp`)} />}
+      CardImage={<CardImage src={require(`assets/units/empire/${unitType}/${imageSlug}.jpeg`)} />}
       ActionIcon={<AddIcon />}
     />
   )
